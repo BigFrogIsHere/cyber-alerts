@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T22:48:42.649Z",
+ "updated": "2026-11-09T02:32:22.312Z",
  "days": 30,
  "validators": {
   "CERT/CC Vulnerability Notes": {
@@ -18,88 +18,88 @@
    "lastModified": "Sat, 07 Nov 2026 05:06:21 GMT"
   },
   "cvefeed.io Latest": {
-   "lastModified": "Sun, 08 Nov 2026 20:17:25 GMT"
+   "lastModified": "Mon, 09 Nov 2026 00:45:25 GMT"
   },
   "cvefeed.io High & Critical": {
-   "lastModified": "Sun, 08 Nov 2026 20:17:23 GMT"
+   "lastModified": "Mon, 09 Nov 2026 00:37:53 GMT"
   },
   "Kubernetes CVE Feed": {
-   "etag": "W/\"4d887089b910de7f433e9b31ff2e2b3c-ssl\""
+   "etag": "W/\"8b4998bd14225fdeaee265fe8d6d65ab-ssl\""
   },
   "Exploit-DB": {
-   "lastModified": "Sun, 08 Nov 2026 22:40:04 GMT"
+   "lastModified": "Mon, 09 Nov 2026 02:30:04 GMT"
   },
   "Full Disclosure": {
    "etag": "\"3afc-65fb337e5dce1\"",
    "lastModified": "Sat, 07 Nov 2026 17:40:01 GMT"
   },
   "Sploitus": {
-   "etag": "W/\"3aad6810a9eead927051269ef4b03c12d4b32a67\"",
-   "lastModified": "Sun, 08 Nov 2026 22:14:52 GMT"
+   "etag": "W/\"6ba3e7cfc92b8bc0041b7f0a4cc564b076195c1a\"",
+   "lastModified": "Mon, 09 Nov 2026 02:22:34 GMT"
   },
   "FortiGuard Outbreak Alerts": {
-   "etag": "\"6af0fb73-4403\"",
-   "lastModified": "Sun, 08 Nov 2026 22:45:07 GMT"
+   "etag": "\"6af1302f-4403\"",
+   "lastModified": "Mon, 09 Nov 2026 02:30:07 GMT"
   },
   "FortiGuard Threat Signal": {
-   "etag": "\"6af0fb73-c0c3\"",
-   "lastModified": "Sun, 08 Nov 2026 22:45:07 GMT"
+   "etag": "\"6af13030-c0c3\"",
+   "lastModified": "Mon, 09 Nov 2026 02:30:08 GMT"
   },
   "Fortinet PSIRT Advisories": {
-   "etag": "\"6af0fb73-c0ab\"",
-   "lastModified": "Sun, 08 Nov 2026 22:45:07 GMT"
+   "etag": "\"6af13030-c0ab\"",
+   "lastModified": "Mon, 09 Nov 2026 02:30:08 GMT"
   },
   "App Control Updates": {
-   "etag": "\"6af0fb73-3cb9\"",
-   "lastModified": "Sun, 08 Nov 2026 22:45:07 GMT"
+   "etag": "\"6af13030-3cb9\"",
+   "lastModified": "Mon, 09 Nov 2026 02:30:08 GMT"
   },
   "Antispam Checksum Updates": {
-   "etag": "\"6af0fb73-9f1\"",
-   "lastModified": "Sun, 08 Nov 2026 22:45:07 GMT"
+   "etag": "\"6af13030-9f1\"",
+   "lastModified": "Mon, 09 Nov 2026 02:30:08 GMT"
   },
   "Antispam URI Updates": {
-   "etag": "\"6af0fb73-9f6\"",
-   "lastModified": "Sun, 08 Nov 2026 22:45:07 GMT"
+   "etag": "\"6af13030-9f6\"",
+   "lastModified": "Mon, 09 Nov 2026 02:30:08 GMT"
   },
   "Antispam IP Updates": {
-   "etag": "\"6af0fb73-9f3\"",
-   "lastModified": "Sun, 08 Nov 2026 22:45:07 GMT"
+   "etag": "\"6af13030-9f3\"",
+   "lastModified": "Mon, 09 Nov 2026 02:30:08 GMT"
   },
   "Antivirus Updates": {
-   "etag": "\"6af0fb74-4bcfe\"",
-   "lastModified": "Sun, 08 Nov 2026 22:45:08 GMT"
+   "etag": "\"6af13030-4a027\"",
+   "lastModified": "Mon, 09 Nov 2026 02:30:08 GMT"
   },
   "IPS Updates": {
-   "etag": "\"6af0fb74-c4e7\"",
-   "lastModified": "Sun, 08 Nov 2026 22:45:08 GMT"
+   "etag": "\"6af13031-c4e7\"",
+   "lastModified": "Mon, 09 Nov 2026 02:30:09 GMT"
   },
   "Web Filtering Updates": {
-   "etag": "\"6af0fb76-d4d\"",
-   "lastModified": "Sun, 08 Nov 2026 22:45:10 GMT"
+   "etag": "\"6af13032-d4d\"",
+   "lastModified": "Mon, 09 Nov 2026 02:30:10 GMT"
   },
   "FortiWeb Security Updates": {
-   "etag": "\"6af0fb76-3654\"",
-   "lastModified": "Sun, 08 Nov 2026 22:45:10 GMT"
+   "etag": "\"6af13032-3654\"",
+   "lastModified": "Mon, 09 Nov 2026 02:30:10 GMT"
   },
   "Endpoint Vulnerability Updates": {
-   "etag": "\"6af0fb74-50be0\"",
-   "lastModified": "Sun, 08 Nov 2026 22:45:08 GMT"
+   "etag": "\"6af13030-50be0\"",
+   "lastModified": "Mon, 09 Nov 2026 02:30:08 GMT"
   },
   "IP Reputation DB": {
-   "etag": "\"6af0fb75-97b\"",
-   "lastModified": "Sun, 08 Nov 2026 22:45:09 GMT"
+   "etag": "\"6af13031-97b\"",
+   "lastModified": "Mon, 09 Nov 2026 02:30:09 GMT"
   },
   "Botnet Domain Reputation DB": {
-   "etag": "\"6af0fb74-cec\"",
-   "lastModified": "Sun, 08 Nov 2026 22:45:08 GMT"
+   "etag": "\"6af13030-cec\"",
+   "lastModified": "Mon, 09 Nov 2026 02:30:08 GMT"
   },
   "Virtual Patching Updates": {
-   "etag": "\"6af0fb75-132d\"",
-   "lastModified": "Sun, 08 Nov 2026 22:45:09 GMT"
+   "etag": "\"6af13031-132d\"",
+   "lastModified": "Mon, 09 Nov 2026 02:30:09 GMT"
   },
   "FortiDAST": {
-   "etag": "\"6af0fb76-5ebe\"",
-   "lastModified": "Sun, 08 Nov 2026 22:45:10 GMT"
+   "etag": "\"6af13032-5ebe\"",
+   "lastModified": "Mon, 09 Nov 2026 02:30:10 GMT"
   },
   "Fortinet Firmware Updates": {
    "etag": "\"806d57a3756ddd1:0\"",
@@ -3196,6 +3196,46 @@
   ],
   "Hacker News Feed": [
    {
+    "title": "Unlocking any car from X brand in most of the world",
+    "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=50419215\">Comments</a>",
+    "pubDate": "Mon, 09 Nov 2026 00:10:50 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:18.875Z"
+   },
+   {
+    "title": "I'm Not Convinced the AI Bubble Exists",
+    "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=50418975\">Comments</a>",
+    "pubDate": "Sun, 08 Nov 2026 23:44:36 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:18.875Z"
+   },
+   {
+    "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
+    "link": "https://isocpp.org/files/papers/P4454R0.pdf",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=50418818\">Comments</a>",
+    "pubDate": "Sun, 08 Nov 2026 23:28:01 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:18.875Z"
+   },
+   {
+    "title": "Chimera Vocal Synth",
+    "link": "https://chimera-vocal-synth.vercel.app/",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=50418182\">Comments</a>",
+    "pubDate": "Sun, 08 Nov 2026 22:36:03 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:18.875Z"
+   },
+   {
+    "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+    "link": "https://ketchup3d.github.io/app/",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=50418176\">Comments</a>",
+    "pubDate": "Sun, 08 Nov 2026 22:35:35 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:18.875Z"
+   },
+   {
     "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
     "link": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
     "description": "<a href=\"https://news.ycombinator.com/item?id=50418016\">Comments</a>",
@@ -3602,6 +3642,14 @@
     "pubDate": "Sat, 07 Nov 2026 15:06:54 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T00:22:12.501Z"
+   },
+   {
+    "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
+    "link": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=50405043\">Comments</a>",
+    "pubDate": "Sat, 07 Nov 2026 14:51:40 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:18.875Z"
    },
    {
     "title": "The Gordon Gekko effect: The role of culture in the financial industry (2016) [pdf]",
@@ -4212,6 +4260,14 @@
     "firstSeen": "2026-11-05T22:37:58.622Z"
    },
    {
+    "title": "The Kekulé Problem – Cormac McCarthy",
+    "link": "https://nautil.us/the-kekul-problem-236574",
+    "description": "<a href=\"https://news.ycombinator.com/item?id=50384664\">Comments</a>",
+    "pubDate": "Thu, 05 Nov 2026 21:25:29 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:18.875Z"
+   },
+   {
     "title": "What do the next 4000 emoji look like?",
     "link": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look",
     "description": "<a href=\"https://news.ycombinator.com/item?id=50384263\">Comments</a>",
@@ -4338,65 +4394,177 @@
     "pubDate": "Thu, 05 Nov 2026 16:16:59 +0000",
     "categories": [],
     "firstSeen": "2026-11-05T22:37:58.622Z"
-   },
-   {
-    "title": "Motorola Signature 27 with GrapheneOS support",
-    "link": "https://motorolanews.com/motorola-signature-27-2/",
-    "description": "<a href=\"https://news.ycombinator.com/item?id=50380810\">Comments</a>",
-    "pubDate": "Thu, 05 Nov 2026 16:01:34 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-05T16:42:07.483Z"
-   },
-   {
-    "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
-    "link": "https://github.com/AGGIB/Stroq",
-    "description": "<a href=\"https://news.ycombinator.com/item?id=50380704\">Comments</a>",
-    "pubDate": "Thu, 05 Nov 2026 15:54:41 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-05T16:42:07.483Z"
-   },
-   {
-    "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
-    "link": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
-    "description": "<a href=\"https://news.ycombinator.com/item?id=50380658\">Comments</a>",
-    "pubDate": "Thu, 05 Nov 2026 15:51:57 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-05T16:42:07.483Z"
-   },
-   {
-    "title": "Exporting tables from a SQL Server backup (.bak) to Parquet without restoring it",
-    "link": "https://blog.arpe.io/fastbcp-1-6-export-sql-server-backup-to-parquet",
-    "description": "<a href=\"https://news.ycombinator.com/item?id=50380410\">Comments</a>",
-    "pubDate": "Thu, 05 Nov 2026 15:33:49 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-05T16:42:07.483Z"
-   },
-   {
-    "title": "An updated Model Spec for more capable and beneficial AI",
-    "link": "https://openai.com/index/updated-model-spec/",
-    "description": "<a href=\"https://news.ycombinator.com/item?id=50380365\">Comments</a>",
-    "pubDate": "Thu, 05 Nov 2026 15:31:43 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-05T16:42:07.483Z"
-   },
-   {
-    "title": "Offline survival assistant – local LLM and Kiwix, runs from a USB stick",
-    "link": "https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md",
-    "description": "<a href=\"https://news.ycombinator.com/item?id=50380273\">Comments</a>",
-    "pubDate": "Thu, 05 Nov 2026 15:25:36 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-05T16:42:07.483Z"
-   },
-   {
-    "title": "We can do better than line-buffered output",
-    "link": "https://nullprogram.com/blog/2026/11/05/",
-    "description": "<a href=\"https://news.ycombinator.com/item?id=50380268\">Comments</a>",
-    "pubDate": "Thu, 05 Nov 2026 15:25:22 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-05T16:42:07.483Z"
    }
   ],
   "CVE.report": [
+   {
+    "title": "CVE-2026-95867",
+    "link": "https://cve.report/CVE-2026-95867",
+    "description": "IBM SevOne Network Performance Management 7.0.0 through 8.2.2 could allow a local attacker to execute arbitrary code due to a buffer overflow.",
+    "pubDate": "Sun, 08 Nov 2026 21:20:34 EDT",
+    "categories": [],
+    "firstSeen": "2026-11-08T22:48:40.884Z"
+   },
+   {
+    "title": "CVE-2026-116501",
+    "link": "https://cve.report/CVE-2026-116501",
+    "description": "IBM Qiskit SDK 2.4.0 through 2.6.1 could allow a local attacker to execute arbitrary code due to an out-of-bounds write caused by improper input validation when accessing a corrupted unitary matrix.",
+    "pubDate": "Sun, 08 Nov 2026 21:20:34 EDT",
+    "categories": [],
+    "firstSeen": "2026-11-08T18:59:42.268Z"
+   },
+   {
+    "title": "CVE-2026-116499",
+    "link": "https://cve.report/CVE-2026-116499",
+    "description": "IBM Qiskit SDK 1.4.2 through 2.6.2 could allow a local attacker to execute arbitrary code due to deserialization of untrusted data.",
+    "pubDate": "Sun, 08 Nov 2026 21:20:34 EDT",
+    "categories": [],
+    "firstSeen": "2026-11-08T18:59:42.268Z"
+   },
+   {
+    "title": "CVE-2026-124555",
+    "link": "https://cve.report/CVE-2026-124555",
+    "description": "A weakness has been identified in JeecgBoot 3.9.5. This vulnerability affects the function JimuFormApiService.getTableDictList of the file /jeecg-boot/jmreport/form/getTableDictList of the component Table Dictionary API. Executing a manipulation of the argument searchSql can lead to sql injection. The attack can be executed remotely. The exploit has been made available to the public and could be used for attacks. The vendor was contacted early about this disclosure but did not respond in any way.",
+    "pubDate": "Sun, 08 Nov 2026 21:20:34 EDT",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.173Z"
+   },
+   {
+    "title": "CVE-2026-124554",
+    "link": "https://cve.report/CVE-2026-124554",
+    "description": "A security flaw has been discovered in JeecgBoot 3.9.5. This affects an unknown part of the file /jeecg-boot/drag/onlDragDatasetHead/getAllChartData of the component JimuBI. Performing a manipulation of the argument params results in sql injection. Remote exploitation of the attack is possible. The exploit has been released to the public and may be used for attacks. The vendor was contacted early about this disclosure but did not respond in any way.",
+    "pubDate": "Sun, 08 Nov 2026 21:20:34 EDT",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.173Z"
+   },
+   {
+    "title": "CVE-2026-124509",
+    "link": "https://cve.report/CVE-2026-124509",
+    "description": "A vulnerability was identified in floci-io Floci up to 2.1.0. The affected element is the function S3Destination.bucketName of the file services/firehose/model/DeliveryStreamDescription.java of the component S3 Destination Configuration Handler. Such manipulation of the argument BucketARN leads to path traversal. The attack can be launched remotely. The exploit is publicly available and might be used. Upgrading to version 2.2.0 is sufficient to fix this issue. The name of the patch is b986b95074ef524019be7af51e1df172e48faa4b. You should upgrade the affected component.",
+    "pubDate": "Sun, 08 Nov 2026 21:20:34 EDT",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.173Z"
+   },
+   {
+    "title": "CVE-2026-124508",
+    "link": "https://cve.report/CVE-2026-124508",
+    "description": "A vulnerability was determined in floci-io Floci up to 2.4.0. Impacted is the function BuildspecParser.parseArtifacts of the file src/main/java/io/github/hectorvent/floci/services/codebuild/CodeBuildJsonHandler.java of the component Artifact Handler. This manipulation of the argument buildspecOverride.artifacts.base-directory causes path traversal. The attack can be initiated remotely. The exploit has been publicly disclosed and may be utilized. The vendor was contacted early about this disclosure but did not respond in any way.",
+    "pubDate": "Sun, 08 Nov 2026 21:20:34 EDT",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.173Z"
+   },
+   {
+    "title": "CVE-2026-110273",
+    "link": "https://cve.report/CVE-2026-110273",
+    "description": "IBM TRIRIGA Application Platform 5.0.0 through 5.0.9 IBM TRIRIGA could allow a remote authenticated attacker to execute arbitrary code due to improper neutralization of special elements used in an OS command.",
+    "pubDate": "Sun, 08 Nov 2026 21:20:33 EDT",
+    "categories": [],
+    "firstSeen": "2026-11-08T18:59:42.268Z"
+   },
+   {
+    "title": "CVE-2026-89059",
+    "link": "https://cve.report/CVE-2026-89059",
+    "description": "A flaw was found in RESTEasy's IIOImageProvider, which decodes attacker-supplied image request bodies without enforcing any limit on the declared image dimensions or pixel count. A remote, unauthenticated attacker can send a small crafted image declaring enormous dimensions to trigger a very large memory allocation, exhausting the JVM heap and resulting in a denial of service.",
+    "pubDate": "Sun, 08 Nov 2026 21:20:33 EDT",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.173Z"
+   },
+   {
+    "title": "CVE-2026-89058",
+    "link": "https://cve.report/CVE-2026-89058",
+    "description": "A flaw was found in RESTEasy's CorsFilter, which, when configured to allow all origins (&quot;*&quot;), reflects the request's Origin header back in the Access-Control-Allow-Origin response together with Access-Control-Allow-Credentials: true. This permissive cross-origin policy allows a malicious website to make credentialed cross-origin requests and read authenticated responses from a victim's session, resulting in a loss of confidentiality.",
+    "pubDate": "Sun, 08 Nov 2026 21:20:33 EDT",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.173Z"
+   },
+   {
+    "title": "CVE-2026-124507",
+    "link": "https://cve.report/CVE-2026-124507",
+    "description": "A vulnerability was found in conductor-oss conductor up to 3.32.4/3.33.0/3.34.0-rc3/4.0.0-alpha.1. This issue affects the function WorkflowSystemTask.start of the file PlannerContextFetchTask.java of the component PLANNER_CONTEXT_FETCH Task Handler. The manipulation of the argument url results in server-side request forgery. It is possible to launch the attack remotely. The exploit has been made public and could be used. The researcher claims to have submitted a GHSA on the repository of the project.",
+    "pubDate": "Sun, 08 Nov 2026 20:18:17 EDT",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.173Z"
+   },
+   {
+    "title": "CVE-2026-124506",
+    "link": "https://cve.report/CVE-2026-124506",
+    "description": "A vulnerability has been found in Dianping CAT 3.0.0/3.1.0/4.0-RC1. This vulnerability affects the function Model.getDomain of the file WEB-INF/tags/hourlyReport.tag of the component Report Handler. The manipulation of the argument domain leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+    "pubDate": "Sun, 08 Nov 2026 20:18:17 EDT",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.173Z"
+   },
+   {
+    "title": "CVE-2026-124505",
+    "link": "https://cve.report/CVE-2026-124505",
+    "description": "A flaw has been found in Dianping CAT 3.0.0/3.1.0/4.0-RC1. This affects the function Handler.redirect of the file Handler.java of the component Login/Logout. Executing a manipulation of the argument rtnUrl can lead to open redirect. The attack may be performed from remote. The exploit has been published and may be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+    "pubDate": "Sun, 08 Nov 2026 20:18:17 EDT",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.173Z"
+   },
+   {
+    "title": "CVE-2026-124504",
+    "link": "https://cve.report/CVE-2026-124504",
+    "description": "A vulnerability was detected in erupts erupt up to 2.3.0. Affected by this issue is the function ReportService.queryBiData of the file ReportService.java. Performing a manipulation of the argument sort results in sql injection. The attack is possible to be carried out remotely. The exploit is now public and may be used. Upgrading to version 2.4.0 can resolve this issue. The patch is named 8d2eaffc79b977c9d11222b9d435a002dceaa062. It is suggested to upgrade the affected component.",
+    "pubDate": "Sun, 08 Nov 2026 20:18:17 EDT",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.173Z"
+   },
+   {
+    "title": "CVE-2026-119506",
+    "link": "https://cve.report/CVE-2026-119506",
+    "description": "Incorrect Privilege Assignment vulnerability in DynamiApps Frontend Admin by DynamiApps acf-frontend-form-element allows Privilege Escalation.This issue affects Frontend Admin by DynamiApps: from n/a through 3.30.1.",
+    "pubDate": "Sun, 08 Nov 2026 20:18:17 EDT",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.173Z"
+   },
+   {
+    "title": "CVE-2026-82418",
+    "link": "https://cve.report/CVE-2026-82418",
+    "description": "IBM Watson Speech Services Cartridge 4.0.0 through 5.4.0 could allow a remote attacker to execute arbitrary code due to a use-after-free vulnerability.",
+    "pubDate": "Sun, 08 Nov 2026 20:18:17 EDT",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.173Z"
+   },
+   {
+    "title": "CVE-2026-124502",
+    "link": "https://cve.report/CVE-2026-124502",
+    "description": "A security vulnerability has been detected in yungifez Skuul School Management System up to 2.6.3. Affected by this vulnerability is the function GraduationController::resetGraduation of the file app/Http/Controllers/GraduationController.php of the component Delete Handler. Such manipulation of the argument student leads to missing authorization. The attack can be executed remotely. The exploit has been disclosed publicly and may be used. Upgrading to version 3.0.0 addresses this issue. The name of the patch is b42f2c80a8e5e01ca6e607bbd97f137ede368ac9. The affected component should be upgraded.",
+    "pubDate": "Sun, 08 Nov 2026 19:32:14 EDT",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.173Z"
+   },
+   {
+    "title": "CVE-2026-124501",
+    "link": "https://cve.report/CVE-2026-124501",
+    "description": "A weakness has been identified in Tidelift moto up to 5.2.4. Affected is an unknown function of the file moto/batch/models.py of the component AWS Batch Emulation. This manipulation of the argument privileged/volumes causes improper privilege management. Remote exploitation of the attack is possible. The exploit has been made available to the public and could be used for attacks. The vendor was contacted early about this disclosure but did not respond in any way.",
+    "pubDate": "Sun, 08 Nov 2026 19:32:14 EDT",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.173Z"
+   },
+   {
+    "title": "CVE-2026-124500",
+    "link": "https://cve.report/CVE-2026-124500",
+    "description": "A security flaw has been discovered in Fengoffice Feng Office up to 3.11.13.11/4.2.1.2. This impacts the function upload_document_image of the file application/controllers/FilesController.class.php of the component File Handler. The manipulation of the argument url results in server-side request forgery. The attack may be launched remotely. The exploit has been released to the public and may be used for attacks. The vendor was contacted early about this disclosure but did not respond in any way.",
+    "pubDate": "Sun, 08 Nov 2026 19:32:14 EDT",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.173Z"
+   },
+   {
+    "title": "CVE-2026-124499",
+    "link": "https://cve.report/CVE-2026-124499",
+    "description": "A vulnerability was identified in Fengoffice Feng Office up to 3.11.13.11/4.2.1.2. This affects the function write_translations of the file application/controllers/ToolController.class.php of the component Translation Tool. The manipulation of the argument lang leads to code injection. The attack may be initiated remotely. The exploit is publicly available and might be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+    "pubDate": "Sun, 08 Nov 2026 19:32:14 EDT",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.173Z"
+   },
+   {
+    "title": "CVE-2026-124498",
+    "link": "https://cve.report/CVE-2026-124498",
+    "description": "A vulnerability was determined in Convene Azeus Convene Board Management Portal 7.0.2.7_3 p72. The impacted element is an unknown function of the file /jsp/ge/dummy_launcher.jsp. Executing a manipulation of the argument REDIRECT_URL can lead to cross site scripting. The attack can be launched remotely. The exploit has been publicly disclosed and may be utilized. The vendor was contacted early about this disclosure but did not respond in any way.",
+    "pubDate": "Sun, 08 Nov 2026 18:30:52 EDT",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.173Z"
+   },
    {
     "title": "CVE-2026-118904",
     "link": "https://cve.report/CVE-2026-118904",
@@ -4449,14 +4617,6 @@
     "title": "CVE-2026-96146",
     "link": "https://cve.report/CVE-2026-96146",
     "description": "IBM SevOne Network Performance Management 7.0.0 through 8.2.2 could allow a remote attacker to cause a denial of service due to uncontrolled resource consumption.",
-    "pubDate": "Sun, 08 Nov 2026 15:25:53 EDT",
-    "categories": [],
-    "firstSeen": "2026-11-08T22:48:40.884Z"
-   },
-   {
-    "title": "CVE-2026-95867",
-    "link": "https://cve.report/CVE-2026-95867",
-    "description": "IBM SevOne Network Performance Management 7.0.0 through 8.2.2 could allow a local attacker to execute arbitrary code due to a buffer overflow.",
     "pubDate": "Sun, 08 Nov 2026 15:25:53 EDT",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.884Z"
@@ -5430,179 +5590,91 @@
     "firstSeen": "2026-11-08T18:59:42.268Z"
    },
    {
-    "title": "CVE-2026-116501",
-    "link": "https://cve.report/CVE-2026-116501",
-    "description": "IBM Qiskit SDK 2.4.0 through 2.6.1 could allow a local attacker to execute arbitrary code due to an out-of-bounds write caused by improper input validation when accessing a corrupted unitary matrix.",
-    "pubDate": "Sun, 08 Nov 2026 12:21:14 EDT",
-    "categories": [],
-    "firstSeen": "2026-11-08T18:59:42.268Z"
-   },
-   {
     "title": "CVE-2026-116500",
     "link": "https://cve.report/CVE-2026-116500",
     "description": "IBM Qiskit SDK 2.4.0 through 2.6.1 could allow a local attacker to cause a denial of service due to unbound recursion during deserialization of untrusted QPY payloads.",
     "pubDate": "Sun, 08 Nov 2026 12:21:14 EDT",
     "categories": [],
     "firstSeen": "2026-11-08T18:59:42.268Z"
-   },
-   {
-    "title": "CVE-2026-116499",
-    "link": "https://cve.report/CVE-2026-116499",
-    "description": "IBM Qiskit SDK 1.4.2 through 2.6.2 could allow a local attacker to execute arbitrary code due to deserialization of untrusted data.",
-    "pubDate": "Sun, 08 Nov 2026 12:21:14 EDT",
-    "categories": [],
-    "firstSeen": "2026-11-08T18:59:42.268Z"
-   },
-   {
-    "title": "CVE-2026-115554",
-    "link": "https://cve.report/CVE-2026-115554",
-    "description": "IBM Tivoli Netcool/OMNIbus 8.1.0 through 8.1.0.41 is vulnerable to stored cross-site scripting. This vulnerability allows an authenticated user to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session.",
-    "pubDate": "Sun, 08 Nov 2026 12:21:14 EDT",
-    "categories": [],
-    "firstSeen": "2026-11-08T18:59:42.268Z"
-   },
-   {
-    "title": "CVE-2026-114464",
-    "link": "https://cve.report/CVE-2026-114464",
-    "description": "IBM Process Mining 2.0.0 through 2.2.1 could allow a remote attacker to obtain sensitive information due to improper access control.",
-    "pubDate": "Sun, 08 Nov 2026 12:21:14 EDT",
-    "categories": [],
-    "firstSeen": "2026-11-08T18:59:42.268Z"
-   },
-   {
-    "title": "CVE-2026-113698",
-    "link": "https://cve.report/CVE-2026-113698",
-    "description": "IBM Db2 11.5.0 through 11.5.9, and 12.1.0 through 12.1.5 is vulnerable to a denial of service when executing a specially crafted query with a Materialized Query Table.",
-    "pubDate": "Sun, 08 Nov 2026 12:21:14 EDT",
-    "categories": [],
-    "firstSeen": "2026-11-08T18:59:42.268Z"
-   },
-   {
-    "title": "CVE-2026-112369",
-    "link": "https://cve.report/CVE-2026-112369",
-    "description": "IBM Process Mining 2.0.0 through 2.2.1 could allow an authenticated user to perform unauthorized actions due to client-side enforcement of sever side security mechanisms.",
-    "pubDate": "Sun, 08 Nov 2026 12:21:14 EDT",
-    "categories": [],
-    "firstSeen": "2026-11-08T18:59:42.268Z"
-   },
-   {
-    "title": "CVE-2026-110273",
-    "link": "https://cve.report/CVE-2026-110273",
-    "description": "IBM TRIRIGA Application Platform 5.0.0 through 5.0.9 IBM TRIRIGA could allow a remote authenticated attacker to execute arbitrary code due to improper neutralization of special elements used in an OS command.",
-    "pubDate": "Sun, 08 Nov 2026 12:21:14 EDT",
-    "categories": [],
-    "firstSeen": "2026-11-08T18:59:42.268Z"
-   },
-   {
-    "title": "CVE-2026-108292",
-    "link": "https://cve.report/CVE-2026-108292",
-    "description": "IBM Process Mining 2.0.0 through 2.2.1 could allow an authenticated user to upload a file with dangerous types that could be executed by another user if opened.",
-    "pubDate": "Sun, 08 Nov 2026 12:21:14 EDT",
-    "categories": [],
-    "firstSeen": "2026-11-08T18:59:42.268Z"
-   },
-   {
-    "title": "CVE-2026-108284",
-    "link": "https://cve.report/CVE-2026-108284",
-    "description": "IBM WebSphere Application Server Liberty 17.0.0.3 through 26.0.0.10 could allow an authenticated user with the Reader role to obtain sensitive information.",
-    "pubDate": "Sun, 08 Nov 2026 12:21:14 EDT",
-    "categories": [],
-    "firstSeen": "2026-11-08T18:59:42.268Z"
-   },
-   {
-    "title": "CVE-2026-107331",
-    "link": "https://cve.report/CVE-2026-107331",
-    "description": "IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to obtain sensitive information due to an absolute-path traversal vulnerability.",
-    "pubDate": "Sun, 08 Nov 2026 12:21:14 EDT",
-    "categories": [],
-    "firstSeen": "2026-11-08T18:59:42.268Z"
-   },
-   {
-    "title": "CVE-2026-107330",
-    "link": "https://cve.report/CVE-2026-107330",
-    "description": "IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to obtain sensitive information due to a Server-Side Request Forgery (SSRF) vulnerability.",
-    "pubDate": "Sun, 08 Nov 2026 12:21:14 EDT",
-    "categories": [],
-    "firstSeen": "2026-11-08T18:59:42.268Z"
-   },
-   {
-    "title": "CVE-2026-105473",
-    "link": "https://cve.report/CVE-2026-105473",
-    "description": "IBM QRadar 7.5.0 through 7.5.0 Update Pack 16 Interim Fix 02, and 7.6.0.0 through 7.6.0.5 is vulnerable to Open Redirect. A victim must open a specifically crafted URL while authenticated to QRadar to trigger this.",
-    "pubDate": "Sun, 08 Nov 2026 12:21:14 EDT",
-    "categories": [],
-    "firstSeen": "2026-11-08T18:59:42.268Z"
-   },
-   {
-    "title": "CVE-2026-105467",
-    "link": "https://cve.report/CVE-2026-105467",
-    "description": "IBM QRadar 7.5.0 through 7.5.0 Update Pack 16 Interim Fix 02, and 7.6.0.0 through 7.6.0.5 is vulnerable to Reflected XSS. A victim must open a specifically crafted URL while authenticated to QRadar to trigger this.",
-    "pubDate": "Sun, 08 Nov 2026 12:21:14 EDT",
-    "categories": [],
-    "firstSeen": "2026-11-08T18:59:42.268Z"
-   },
-   {
-    "title": "CVE-2026-11547",
-    "link": "https://cve.report/CVE-2026-11547",
-    "description": "IBM WebSphere Application Server Liberty 17.0.0.3 through 26.0.0.10 is affected by a server-side request forgery vulnerability in the Admin Center deploy validation endpoint.",
-    "pubDate": "Sun, 08 Nov 2026 12:21:14 EDT",
-    "categories": [],
-    "firstSeen": "2026-11-08T18:59:42.268Z"
-   },
-   {
-    "title": "CVE-2026-10844",
-    "link": "https://cve.report/CVE-2026-10844",
-    "description": "IBM WebSphere Application Server Liberty 17.0.0.3 through 26.0.0.10 could allow a remote attacker to conduct phishing attacks.",
-    "pubDate": "Sun, 08 Nov 2026 12:21:14 EDT",
-    "categories": [],
-    "firstSeen": "2026-11-08T18:59:42.268Z"
-   },
-   {
-    "title": "CVE-2026-109900",
-    "link": "https://cve.report/CVE-2026-109900",
-    "description": "Incorrect Privilege Assignment vulnerability in Melapress Melapress Role Editor melapress-role-editor allows Privilege Escalation.This issue affects Melapress Role Editor: from n/a through 1.3.0.",
-    "pubDate": "Sun, 08 Nov 2026 11:20:18 EDT",
-    "categories": [],
-    "firstSeen": "2026-11-08T18:59:42.268Z"
-   },
-   {
-    "title": "CVE-2026-109899",
-    "link": "https://cve.report/CVE-2026-109899",
-    "description": "Missing Authorization vulnerability in Melapress Melapress Role Editor melapress-role-editor allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Melapress Role Editor: from n/a through 1.3.0.",
-    "pubDate": "Sun, 08 Nov 2026 11:20:18 EDT",
-    "categories": [],
-    "firstSeen": "2026-11-08T18:59:42.268Z"
-   },
-   {
-    "title": "CVE-2026-103320",
-    "link": "https://cve.report/CVE-2026-103320",
-    "description": "IBM WebSphere Application Server Liberty 17.0.0.3 through 26.0.0.10 could allow an authenticated user with the Reader role to obtain sensitive information.",
-    "pubDate": "Sun, 08 Nov 2026 11:20:18 EDT",
-    "categories": [],
-    "firstSeen": "2026-11-08T18:59:42.268Z"
-   },
-   {
-    "title": "CVE-2026-102618",
-    "link": "https://cve.report/CVE-2026-102618",
-    "description": "IBM i 7.6, 7.5, 7.4, and 7.3 could allow an authenticated user to indirectly disable system auditing, which they otherwise don't have authority to disable.",
-    "pubDate": "Sun, 08 Nov 2026 11:20:18 EDT",
-    "categories": [],
-    "firstSeen": "2026-11-08T18:59:42.268Z"
-   },
-   {
-    "title": "CVE-2026-101117",
-    "link": "https://cve.report/CVE-2026-101117",
-    "description": "IBM WebSphere Extreme Scale 8.6.1.0 through 8.6.2.2 could allow a remote attacker to bypass security restrictions due to improper Content Security Policy configuration.",
-    "pubDate": "Sun, 08 Nov 2026 11:20:18 EDT",
-    "categories": [],
-    "firstSeen": "2026-11-08T18:59:42.268Z"
    }
   ],
   "cvefeed.io Latest": [
    {
+    "title": "CVE-2026-124506 - Dianping CAT Report hourlyReport.tag Model.getDomain cross site scripting",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124506",
+    "description": "<strong>CVE ID :</strong>CVE-2026-124506\n  <br />\n  <strong>Published :</strong> Nov. 9, 2026, 12:45 a.m. | 28 minutes ago\n  <br />\n  <strong>Description :</strong>A vulnerability has been found in Dianping CAT 3.0.0/3.1.0/4.0-RC1. This vulnerability affects the function Model.getDomain of the file WEB-INF/tags/hourlyReport.tag of the component Report Handler. The manipulation of the argument domain leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n  <br />\n  <strong>Severity:</strong> 0.0 | NA\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "pubDate": "Mon, 09 Nov 2026 00:45:25 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.150Z"
+   },
+   {
+    "title": "CVE-2026-119506 - WordPress Frontend Admin by DynamiApps plugin <= 3.30.1 - Privilege Escalation vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-119506",
+    "description": "<strong>CVE ID :</strong>CVE-2026-119506\n  <br />\n  <strong>Published :</strong> Nov. 9, 2026, 12:37 a.m. | 36 minutes ago\n  <br />\n  <strong>Description :</strong>Incorrect Privilege Assignment vulnerability in DynamiApps Frontend Admin by DynamiApps acf-frontend-form-element allows Privilege Escalation.This issue affects Frontend Admin by DynamiApps: from n/a through 3.30.1.\n  <br />\n  <strong>Severity:</strong> 9.1 | CRITICAL\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "pubDate": "Mon, 09 Nov 2026 00:37:53 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.150Z"
+   },
+   {
+    "title": "CVE-2026-124505 - Dianping CAT Login/Logout Handler.java Handler.redirect",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124505",
+    "description": "<strong>CVE ID :</strong>CVE-2026-124505\n  <br />\n  <strong>Published :</strong> Nov. 9, 2026, 12:30 a.m. | 43 minutes ago\n  <br />\n  <strong>Description :</strong>A flaw has been found in Dianping CAT 3.0.0/3.1.0/4.0-RC1. This affects the function Handler.redirect of the file Handler.java of the component Login/Logout. Executing a manipulation of the argument rtnUrl can lead to open redirect. The attack may be performed from remote. The exploit has been published and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n  <br />\n  <strong>Severity:</strong> 0.0 | NA\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "pubDate": "Mon, 09 Nov 2026 00:30:31 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.150Z"
+   },
+   {
+    "title": "CVE-2026-124502 - yungifez Skuul School Management System Delete GraduationController.php resetGraduation authorization",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124502",
+    "description": "<strong>CVE ID :</strong>CVE-2026-124502\n  <br />\n  <strong>Published :</strong> Nov. 9, 2026, 12:18 a.m. | 56 minutes ago\n  <br />\n  <strong>Description :</strong>A security vulnerability has been detected in yungifez Skuul School Management System up to 2.6.3. Affected by this vulnerability is the function GraduationController::resetGraduation of the file app/Http/Controllers/GraduationController.php of the component Delete Handler. Such manipulation of the argument student leads to missing authorization. The attack can be executed remotely. The exploit has been disclosed publicly and may be used. Upgrading to version 3.0.0 addresses this issue. The name of the patch is b42f2c80a8e5e01ca6e607bbd97f137ede368ac9. The affected component should be upgraded.\n  <br />\n  <strong>Severity:</strong> 4.3 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "pubDate": "Mon, 09 Nov 2026 00:18:01 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.150Z"
+   },
+   {
+    "title": "CVE-2026-124501 - Tidelift moto AWS Batch Emulation models.py privileges management",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124501",
+    "description": "<strong>CVE ID :</strong>CVE-2026-124501\n  <br />\n  <strong>Published :</strong> Nov. 9, 2026, 12:18 a.m. | 56 minutes ago\n  <br />\n  <strong>Description :</strong>A weakness has been identified in Tidelift moto up to 5.2.4. Affected is an unknown function of the file moto/batch/models.py of the component AWS Batch Emulation. This manipulation of the argument privileged/volumes causes improper privilege management. Remote exploitation of the attack is possible. The exploit has been made available to the public and could be used for attacks. The vendor was contacted early about this disclosure but did not respond in any way.\n  <br />\n  <strong>Severity:</strong> 7.5 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "pubDate": "Mon, 09 Nov 2026 00:18:01 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.150Z"
+   },
+   {
+    "title": "CVE-2026-124500 - Fengoffice Feng Office File FilesController.class.php upload_document_image server-side request forgery",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124500",
+    "description": "<strong>CVE ID :</strong>CVE-2026-124500\n  <br />\n  <strong>Published :</strong> Nov. 9, 2026, 12:18 a.m. | 56 minutes ago\n  <br />\n  <strong>Description :</strong>A security flaw has been discovered in Fengoffice Feng Office up to 3.11.13.11/4.2.1.2. This impacts the function upload_document_image of the file application/controllers/FilesController.class.php of the component File Handler. The manipulation of the argument url results in server-side request forgery. The attack may be launched remotely. The exploit has been released to the public and may be used for attacks. The vendor was contacted early about this disclosure but did not respond in any way.\n  <br />\n  <strong>Severity:</strong> 6.5 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "pubDate": "Mon, 09 Nov 2026 00:18:01 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.150Z"
+   },
+   {
+    "title": "CVE-2026-124499 - Fengoffice Feng Office Translation Tool ToolController.class.php write_translations code injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124499",
+    "description": "<strong>CVE ID :</strong>CVE-2026-124499\n  <br />\n  <strong>Published :</strong> Nov. 9, 2026, 12:18 a.m. | 56 minutes ago\n  <br />\n  <strong>Description :</strong>A vulnerability was identified in Fengoffice Feng Office up to 3.11.13.11/4.2.1.2. This affects the function write_translations of the file application/controllers/ToolController.class.php of the component Translation Tool. The manipulation of the argument lang leads to code injection. The attack may be initiated remotely. The exploit is publicly available and might be used. The vendor was contacted early about this disclosure but did not respond in any way.\n  <br />\n  <strong>Severity:</strong> 5.8 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "pubDate": "Mon, 09 Nov 2026 00:18:00 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.150Z"
+   },
+   {
+    "title": "CVE-2026-124504 - erupts erupt ReportService.java ReportService.queryBiData sql injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124504",
+    "description": "<strong>CVE ID :</strong>CVE-2026-124504\n  <br />\n  <strong>Published :</strong> Nov. 9, 2026, 12:15 a.m. | 58 minutes ago\n  <br />\n  <strong>Description :</strong>A vulnerability was detected in erupts erupt up to 2.3.0. Affected by this issue is the function ReportService.queryBiData of the file ReportService.java. Performing a manipulation of the argument sort results in sql injection. The attack is possible to be carried out remotely. The exploit is now public and may be used. Upgrading to version 2.4.0 can resolve this issue. The patch is named 8d2eaffc79b977c9d11222b9d435a002dceaa062. It is suggested to upgrade the affected component.\n  <br />\n  <strong>Severity:</strong> 0.0 | NA\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "pubDate": "Mon, 09 Nov 2026 00:15:31 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.150Z"
+   },
+   {
+    "title": "CVE-2026-124498 - Convene Azeus Convene Board Management Portal dummy_launcher.jsp cross site scripting",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124498",
+    "description": "<strong>CVE ID :</strong>CVE-2026-124498\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 11:16 p.m. | 1 hour, 57 minutes ago\n  <br />\n  <strong>Description :</strong>A vulnerability was determined in Convene Azeus Convene Board Management Portal 7.0.2.7_3 p72. The impacted element is an unknown function of the file /jsp/ge/dummy_launcher.jsp. Executing a manipulation of the argument REDIRECT_URL can lead to cross site scripting. The attack can be launched remotely. The exploit has been publicly disclosed and may be utilized. The vendor was contacted early about this disclosure but did not respond in any way.\n  <br />\n  <strong>Severity:</strong> 4.0 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "pubDate": "Sun, 08 Nov 2026 23:16:34 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.150Z"
+   },
+   {
     "title": "CVE-2026-96146 - Multiple vulnerabilities previously addressed in IBM SevOne Network Performance Management",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-96146",
-    "description": "<strong>CVE ID :</strong>CVE-2026-96146\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 8:17 p.m. | 1 hour, 13 minutes ago\n  <br />\n  <strong>Description :</strong>IBM SevOne Network Performance Management 7.0.0 through 8.2.2 could allow a remote attacker to cause a denial of service due to uncontrolled resource consumption.\n  <br />\n  <strong>Severity:</strong> 7.5 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-96146\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 8:17 p.m. | 4 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM SevOne Network Performance Management 7.0.0 through 8.2.2 could allow a remote attacker to cause a denial of service due to uncontrolled resource consumption.\n  <br />\n  <strong>Severity:</strong> 7.5 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 20:17:25 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.412Z"
@@ -5610,7 +5682,7 @@
    {
     "title": "CVE-2026-95867 - Multiple vulnerabilities previously addressed in IBM SevOne Network Performance Management",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-95867",
-    "description": "<strong>CVE ID :</strong>CVE-2026-95867\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 8:17 p.m. | 1 hour, 13 minutes ago\n  <br />\n  <strong>Description :</strong>IBM SevOne Network Performance Management 7.0.0 through 8.2.2 could allow a local attacker to execute arbitrary code due to a buffer overflow.\n  <br />\n  <strong>Severity:</strong> 6.7 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-95867\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 8:17 p.m. | 4 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM SevOne Network Performance Management 7.0.0 through 8.2.2 could allow a local attacker to execute arbitrary code due to a buffer overflow.\n  <br />\n  <strong>Severity:</strong> 6.7 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 20:17:25 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.412Z"
@@ -5618,7 +5690,7 @@
    {
     "title": "CVE-2026-17427 - This Power System update is being released to address",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-17427",
-    "description": "<strong>CVE ID :</strong>CVE-2026-17427\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 8:17 p.m. | 1 hour, 13 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Power Systems Firmware FW1060.00 through FW1060.81, OP940.00 through OP940.A2, OP910.00 through OP910.95, and OP940.00 through OP940.82 could allow a remote attacker to cause a denial of service due to improper validation of input length.\n  <br />\n  <strong>Severity:</strong> 6.5 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-17427\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 8:17 p.m. | 4 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Power Systems Firmware FW1060.00 through FW1060.81, OP940.00 through OP940.A2, OP910.00 through OP910.95, and OP940.00 through OP940.82 could allow a remote attacker to cause a denial of service due to improper validation of input length.\n  <br />\n  <strong>Severity:</strong> 6.5 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 20:17:24 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.412Z"
@@ -5626,7 +5698,7 @@
    {
     "title": "CVE-2026-17426 - This Power System update is being released to address",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-17426",
-    "description": "<strong>CVE ID :</strong>CVE-2026-17426\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 8:17 p.m. | 1 hour, 13 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Power Systems Firmware FW1060.00 through FW1060.81 could allow a remote attacker to cause a denial of service due to an unhandled exception.\n  <br />\n  <strong>Severity:</strong> 6.5 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-17426\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 8:17 p.m. | 4 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Power Systems Firmware FW1060.00 through FW1060.81 could allow a remote attacker to cause a denial of service due to an unhandled exception.\n  <br />\n  <strong>Severity:</strong> 6.5 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 20:17:24 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.412Z"
@@ -5634,7 +5706,7 @@
    {
     "title": "CVE-2026-16697 - This Power System update is being released to address",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-16697",
-    "description": "<strong>CVE ID :</strong>CVE-2026-16697\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 8:17 p.m. | 1 hour, 13 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Power Systems Firmware FW1060.00 through FW1060.81, OP940.00 through OP940.A2, OP910.00 through OP910.95, and  OP940.00 through OP940.82 could allow a remote attacker to cause a denial of service due to improper restriction of excessive computational resources.\n  <br />\n  <strong>Severity:</strong> 6.5 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-16697\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 8:17 p.m. | 4 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Power Systems Firmware FW1060.00 through FW1060.81, OP940.00 through OP940.A2, OP910.00 through OP910.95, and  OP940.00 through OP940.82 could allow a remote attacker to cause a denial of service due to improper restriction of excessive computational resources.\n  <br />\n  <strong>Severity:</strong> 6.5 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 20:17:24 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.412Z"
@@ -5642,7 +5714,7 @@
    {
     "title": "CVE-2026-16682 - This Power System update is being released to address",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-16682",
-    "description": "<strong>CVE ID :</strong>CVE-2026-16682\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 8:17 p.m. | 1 hour, 13 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Power Systems Firmware FW1120.00 through FW1120.01, FW1110.00 through FW1110.31, FW1060.00 through FW1060.81, OP940.00 through OP940.A2, OP910.00 through OP910.95, and OP940.00 through OP940.82 could allow a remote attacker to cause a denial of service due to improper handling of uninitialized resources.\n  <br />\n  <strong>Severity:</strong> 6.5 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-16682\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 8:17 p.m. | 4 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Power Systems Firmware FW1120.00 through FW1120.01, FW1110.00 through FW1110.31, FW1060.00 through FW1060.81, OP940.00 through OP940.A2, OP910.00 through OP910.95, and OP940.00 through OP940.82 could allow a remote attacker to cause a denial of service due to improper handling of uninitialized resources.\n  <br />\n  <strong>Severity:</strong> 6.5 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 20:17:24 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.412Z"
@@ -5650,7 +5722,7 @@
    {
     "title": "CVE-2026-118904 - IBM webMethods Integration Server is affected by vulnerabilty in backup code validation during 2FA Authentication.",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-118904",
-    "description": "<strong>CVE ID :</strong>CVE-2026-118904\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 8:17 p.m. | 1 hour, 13 minutes ago\n  <br />\n  <strong>Description :</strong>IBM webMethods Integration Server 12.1 could allow a remote authenticated attacker to bypass security restrictions due to improper authentication.\n  <br />\n  <strong>Severity:</strong> 8.1 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-118904\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 8:17 p.m. | 4 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM webMethods Integration Server 12.1 could allow a remote authenticated attacker to bypass security restrictions due to improper authentication.\n  <br />\n  <strong>Severity:</strong> 8.1 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 20:17:23 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.412Z"
@@ -5658,7 +5730,7 @@
    {
     "title": "CVE-2026-9764 - IBM Bob is vulnerable to Remote Code Execution due to improper control of workspace-defined MCP server execution",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-9764",
-    "description": "<strong>CVE ID :</strong>CVE-2026-9764\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 2 hours, 12 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Bob 1.0.4 through 2.0.1 could allow a remote attacker to inject arbitrary code on the system, due to the improper control of user input code.\n  <br />\n  <strong>Severity:</strong> 8.8 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-9764\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 5 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Bob 1.0.4 through 2.0.1 could allow a remote attacker to inject arbitrary code on the system, due to the improper control of user input code.\n  <br />\n  <strong>Severity:</strong> 8.8 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 19:17:54 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.412Z"
@@ -5666,7 +5738,7 @@
    {
     "title": "CVE-2026-97677 - Langflow OSS is affected by multiple vulnerabilities",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-97677",
-    "description": "<strong>CVE ID :</strong>CVE-2026-97677\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 2 hours, 12 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Langflow OSS 1.0.0 through 1.12.2 An authenticated flow author could write attacker-controlled file content into any directory writable by the service account, bypassing the platform's local file access isolation safeguard. Via a crafted on-disk index, the attacker could also read the contents of arbitrary files accessible to the service process — including configuration files, secrets, or database files stored under the application's data directory.\n  <br />\n  <strong>Severity:</strong> 8.1 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-97677\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 5 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Langflow OSS 1.0.0 through 1.12.2 An authenticated flow author could write attacker-controlled file content into any directory writable by the service account, bypassing the platform's local file access isolation safeguard. Via a crafted on-disk index, the attacker could also read the contents of arbitrary files accessible to the service process — including configuration files, secrets, or database files stored under the application's data directory.\n  <br />\n  <strong>Severity:</strong> 8.1 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 19:17:54 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.412Z"
@@ -5674,7 +5746,7 @@
    {
     "title": "CVE-2026-93879 - Hibernate Validator is affected by an expression language injection vulnerability",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-93879",
-    "description": "<strong>CVE ID :</strong>CVE-2026-93879\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 2 hours, 12 minutes ago\n  <br />\n  <strong>Description :</strong>Hibernate Validator could allow a remote attacker to cause a denial of service due to uncontrolled resource consumption resulting from improper escaping of user-controlled data in Expression Language (EL) expressions.\n  <br />\n  <strong>Severity:</strong> 7.5 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-93879\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 5 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>Hibernate Validator could allow a remote attacker to cause a denial of service due to uncontrolled resource consumption resulting from improper escaping of user-controlled data in Expression Language (EL) expressions.\n  <br />\n  <strong>Severity:</strong> 7.5 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 19:17:43 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.412Z"
@@ -5682,7 +5754,7 @@
    {
     "title": "CVE-2026-93005 - Multiple security vulnerabilities are addressed with IBM Process Mining Interim Fix for October 2026",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-93005",
-    "description": "<strong>CVE ID :</strong>CVE-2026-93005\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 2 hours, 12 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Process Mining 2.0.0 through 2.2.1 could allow an authenticated attacker to cause a denial of service through insufficient rate limiting of email notifications, resulting in excessive emails being sent to targeted recipients.\n  <br />\n  <strong>Severity:</strong> 6.5 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-93005\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 5 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Process Mining 2.0.0 through 2.2.1 could allow an authenticated attacker to cause a denial of service through insufficient rate limiting of email notifications, resulting in excessive emails being sent to targeted recipients.\n  <br />\n  <strong>Severity:</strong> 6.5 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 19:17:43 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.412Z"
@@ -5690,7 +5762,7 @@
    {
     "title": "CVE-2026-8860 - IBM Verify Directory is affected by multiple vulnerabilities",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-8860",
-    "description": "<strong>CVE ID :</strong>CVE-2026-8860\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 2 hours, 12 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Security Verify Directory 10.0.0 through 10.0.4 and IBM Verify Directory 11.0.0 accepts GET requests for authentication, allowing credentials to be passed as URL parameters. This causes passwords to be exposed in browser history and server logs.\n  <br />\n  <strong>Severity:</strong> 6.5 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-8860\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 5 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Security Verify Directory 10.0.0 through 10.0.4 and IBM Verify Directory 11.0.0 accepts GET requests for authentication, allowing credentials to be passed as URL parameters. This causes passwords to be exposed in browser history and server logs.\n  <br />\n  <strong>Severity:</strong> 6.5 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 19:17:43 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.412Z"
@@ -5698,7 +5770,7 @@
    {
     "title": "CVE-2026-8642 - IBM Verify Directory is affected by multiple vulnerabilities",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-8642",
-    "description": "<strong>CVE ID :</strong>CVE-2026-8642\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 2 hours, 12 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Security Verify Directory 10.0.0 through 10.0.4 and IBM Verify Directory 11.0.0 exposes debug endpoints that disclose system information including server versions and session identifiers. This information can be used to identify vulnerable software versions.\n  <br />\n  <strong>Severity:</strong> 4.3 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-8642\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 5 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Security Verify Directory 10.0.0 through 10.0.4 and IBM Verify Directory 11.0.0 exposes debug endpoints that disclose system information including server versions and session identifiers. This information can be used to identify vulnerable software versions.\n  <br />\n  <strong>Severity:</strong> 4.3 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 19:17:42 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.412Z"
@@ -5706,7 +5778,7 @@
    {
     "title": "CVE-2026-8640 - IBM Verify Directory is affected by multiple vulnerabilities",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-8640",
-    "description": "<strong>CVE ID :</strong>CVE-2026-8640\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 2 hours, 12 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Security Verify Directory 10.0.0 through 10.0.4 and IBM Verify Directory 11.0.0 does not set the SameSite attribute on session cookies, making it vulnerable to Cross-Site Request Forgery (CSRF) attacks. An attacker can cause authenticated users' browsers to send unauthorized requests to the application.\n  <br />\n  <strong>Severity:</strong> 3.5 | LOW\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-8640\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 5 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Security Verify Directory 10.0.0 through 10.0.4 and IBM Verify Directory 11.0.0 does not set the SameSite attribute on session cookies, making it vulnerable to Cross-Site Request Forgery (CSRF) attacks. An attacker can cause authenticated users' browsers to send unauthorized requests to the application.\n  <br />\n  <strong>Severity:</strong> 3.5 | LOW\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 19:17:42 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.412Z"
@@ -5714,7 +5786,7 @@
    {
     "title": "CVE-2026-8639 - IBM Verify Directory is affected by multiple vulnerabilities",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-8639",
-    "description": "<strong>CVE ID :</strong>CVE-2026-8639\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 2 hours, 12 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Security Verify Directory 10.0.0 through 10.0.4 and IBM Verify Directory 11.0.0 is vulnerable to session fixation. An attacker can establish a session and, after the victim authenticates, hijack the authenticated session to gain unauthorized access to the directory management console.\n  <br />\n  <strong>Severity:</strong> 8.8 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-8639\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 5 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Security Verify Directory 10.0.0 through 10.0.4 and IBM Verify Directory 11.0.0 is vulnerable to session fixation. An attacker can establish a session and, after the victim authenticates, hijack the authenticated session to gain unauthorized access to the directory management console.\n  <br />\n  <strong>Severity:</strong> 8.8 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 19:17:42 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.412Z"
@@ -5722,7 +5794,7 @@
    {
     "title": "CVE-2026-84237 - IBM Guardium Data Protection is affected by multiple vulnerabilities",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-84237",
-    "description": "<strong>CVE ID :</strong>CVE-2026-84237\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 2 hours, 12 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Guardium Data Protection 12.2.4 could allow a remote authenticated attacker to obtain sensitive information due to improper limitation of a pathname to a restricted directory.\n  <br />\n  <strong>Severity:</strong> 3.1 | LOW\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-84237\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 5 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Guardium Data Protection 12.2.4 could allow a remote authenticated attacker to obtain sensitive information due to improper limitation of a pathname to a restricted directory.\n  <br />\n  <strong>Severity:</strong> 3.1 | LOW\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 19:17:41 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.412Z"
@@ -6726,85 +6798,21 @@
     "pubDate": "Sat, 07 Nov 2026 14:17:02 +0000",
     "categories": [],
     "firstSeen": "2026-11-07T16:47:38.075Z"
-   },
-   {
-    "title": "CVE-2026-121781 - WordPress Fluent Booking plugin <= 2.5.0 - Broken Access Control vulnerability",
-    "link": "https://cvefeed.io/vuln/detail/CVE-2026-121781",
-    "description": "<strong>CVE ID :</strong>CVE-2026-121781\n  <br />\n  <strong>Published :</strong> Nov. 7, 2026, 8:56 a.m. | 8 minutes ago\n  <br />\n  <strong>Description :</strong>Missing Authorization vulnerability in WP ManageNinja LLC Fluent Booking fluent-booking allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Fluent Booking: from n/a through 2.5.0.\n  <br />\n  <strong>Severity:</strong> 5.3 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
-    "pubDate": "Sat, 07 Nov 2026 08:56:31 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T10:37:15.392Z"
-   },
-   {
-    "title": "CVE-2026-119489 - WordPress WP Recipe Maker plugin <= 10.9.1 - Cross Site Scripting (XSS) vulnerability",
-    "link": "https://cvefeed.io/vuln/detail/CVE-2026-119489",
-    "description": "<strong>CVE ID :</strong>CVE-2026-119489\n  <br />\n  <strong>Published :</strong> Nov. 7, 2026, 8:55 a.m. | 9 minutes ago\n  <br />\n  <strong>Description :</strong>Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Bootstrapped Ventures WP Recipe Maker wp-recipe-maker allows Stored XSS.This issue affects WP Recipe Maker: from n/a through 10.9.1.\n  <br />\n  <strong>Severity:</strong> 6.5 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
-    "pubDate": "Sat, 07 Nov 2026 08:55:48 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T10:37:15.392Z"
-   },
-   {
-    "title": "CVE-2026-120849 - WordPress WCFM Marketplace plugin <= 3.8.3 - Broken Access Control vulnerability",
-    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120849",
-    "description": "<strong>CVE ID :</strong>CVE-2026-120849\n  <br />\n  <strong>Published :</strong> Nov. 7, 2026, 8:53 a.m. | 11 minutes ago\n  <br />\n  <strong>Description :</strong>Missing Authorization vulnerability in WC Lovers WCFM Marketplace wc-multivendor-marketplace allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects WCFM Marketplace: from n/a through 3.8.3.\n  <br />\n  <strong>Severity:</strong> 4.3 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
-    "pubDate": "Sat, 07 Nov 2026 08:53:25 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T10:37:15.392Z"
-   },
-   {
-    "title": "CVE-2026-120848 - WordPress WCFM Marketplace plugin <= 3.8.3 - Cross Site Scripting (XSS) vulnerability",
-    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120848",
-    "description": "<strong>CVE ID :</strong>CVE-2026-120848\n  <br />\n  <strong>Published :</strong> Nov. 7, 2026, 8:51 a.m. | 13 minutes ago\n  <br />\n  <strong>Description :</strong>Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WC Lovers WCFM Marketplace wc-multivendor-marketplace allows Stored XSS.This issue affects WCFM Marketplace: from n/a through 3.8.3.\n  <br />\n  <strong>Severity:</strong> 6.5 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
-    "pubDate": "Sat, 07 Nov 2026 08:51:59 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T10:37:15.392Z"
-   },
-   {
-    "title": "CVE-2026-124274 - WordPress myCred plugin <= 4.0.2 - Broken Access Control vulnerability",
-    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124274",
-    "description": "<strong>CVE ID :</strong>CVE-2026-124274\n  <br />\n  <strong>Published :</strong> Nov. 7, 2026, 8:50 a.m. | 14 minutes ago\n  <br />\n  <strong>Description :</strong>Missing Authorization vulnerability in myCred myCred mycred allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects myCred: from n/a through 4.0.2.\n  <br />\n  <strong>Severity:</strong> 5.3 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
-    "pubDate": "Sat, 07 Nov 2026 08:50:22 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T10:37:15.392Z"
-   },
-   {
-    "title": "CVE-2026-122675 - WordPress Wp Social plugin <= 3.2.3 - Cross Site Request Forgery (CSRF) vulnerability",
-    "link": "https://cvefeed.io/vuln/detail/CVE-2026-122675",
-    "description": "<strong>CVE ID :</strong>CVE-2026-122675\n  <br />\n  <strong>Published :</strong> Nov. 7, 2026, 8:49 a.m. | 15 minutes ago\n  <br />\n  <strong>Description :</strong>Cross-Site Request Forgery (CSRF) vulnerability in Wpmet Wp Social wp-social allows Cross Site Request Forgery.This issue affects Wp Social: from n/a through 3.2.3.\n  <br />\n  <strong>Severity:</strong> 5.4 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
-    "pubDate": "Sat, 07 Nov 2026 08:49:27 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T10:37:15.392Z"
-   },
-   {
-    "title": "CVE-2026-121761 - WordPress VOD Infomaniak plugin <= 1.5.15 - Broken Access Control vulnerability",
-    "link": "https://cvefeed.io/vuln/detail/CVE-2026-121761",
-    "description": "<strong>CVE ID :</strong>CVE-2026-121761\n  <br />\n  <strong>Published :</strong> Nov. 7, 2026, 8:49 a.m. | 16 minutes ago\n  <br />\n  <strong>Description :</strong>Missing Authorization vulnerability in Infomaniak Network VOD Infomaniak vod-infomaniak allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects VOD Infomaniak: from n/a through 1.5.15.\n  <br />\n  <strong>Severity:</strong> 4.3 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
-    "pubDate": "Sat, 07 Nov 2026 08:49:00 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T10:37:15.392Z"
-   },
-   {
-    "title": "CVE-2026-121767 - WordPress weDocs plugin <= 2.6.1 - Broken Access Control vulnerability",
-    "link": "https://cvefeed.io/vuln/detail/CVE-2026-121767",
-    "description": "<strong>CVE ID :</strong>CVE-2026-121767\n  <br />\n  <strong>Published :</strong> Nov. 7, 2026, 8:48 a.m. | 16 minutes ago\n  <br />\n  <strong>Description :</strong>Missing Authorization vulnerability in weDevs weDocs wedocs allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects weDocs: from n/a through 2.6.1.\n  <br />\n  <strong>Severity:</strong> 5.3 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
-    "pubDate": "Sat, 07 Nov 2026 08:48:16 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T10:37:15.392Z"
-   },
-   {
-    "title": "CVE-2026-121778 - WordPress WP-Lister Lite for Amazon plugin <= 2.9.2 - Broken Access Control vulnerability",
-    "link": "https://cvefeed.io/vuln/detail/CVE-2026-121778",
-    "description": "<strong>CVE ID :</strong>CVE-2026-121778\n  <br />\n  <strong>Published :</strong> Nov. 7, 2026, 8:44 a.m. | 20 minutes ago\n  <br />\n  <strong>Description :</strong>Missing Authorization vulnerability in WP Lab WP-Lister Lite for Amazon wp-lister-for-amazon allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects WP-Lister Lite for Amazon: from n/a through 2.9.2.\n  <br />\n  <strong>Severity:</strong> 5.3 | MEDIUM\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
-    "pubDate": "Sat, 07 Nov 2026 08:44:53 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T10:37:15.392Z"
    }
   ],
   "cvefeed.io High & Critical": [
    {
+    "title": "CVE-2026-119506 - WordPress Frontend Admin by DynamiApps plugin <= 3.30.1 - Privilege Escalation vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-119506",
+    "description": "<strong>CVE ID :</strong>CVE-2026-119506\n  <br />\n  <strong>Published :</strong> Nov. 9, 2026, 12:37 a.m. | 35 minutes ago\n  <br />\n  <strong>Description :</strong>Incorrect Privilege Assignment vulnerability in DynamiApps Frontend Admin by DynamiApps acf-frontend-form-element allows Privilege Escalation.This issue affects Frontend Admin by DynamiApps: from n/a through 3.30.1.\n  <br />\n  <strong>Severity:</strong> 9.1 | CRITICAL\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "pubDate": "Mon, 09 Nov 2026 00:37:53 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:19.180Z"
+   },
+   {
     "title": "CVE-2026-118904 - IBM webMethods Integration Server is affected by vulnerabilty in backup code validation during 2FA Authentication.",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-118904",
-    "description": "<strong>CVE ID :</strong>CVE-2026-118904\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 8:17 p.m. | 1 hour, 13 minutes ago\n  <br />\n  <strong>Description :</strong>IBM webMethods Integration Server 12.1 could allow a remote authenticated attacker to bypass security restrictions due to improper authentication.\n  <br />\n  <strong>Severity:</strong> 8.1 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-118904\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 8:17 p.m. | 4 hours, 55 minutes ago\n  <br />\n  <strong>Description :</strong>IBM webMethods Integration Server 12.1 could allow a remote authenticated attacker to bypass security restrictions due to improper authentication.\n  <br />\n  <strong>Severity:</strong> 8.1 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 20:17:23 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.418Z"
@@ -6812,7 +6820,7 @@
    {
     "title": "CVE-2026-9764 - IBM Bob is vulnerable to Remote Code Execution due to improper control of workspace-defined MCP server execution",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-9764",
-    "description": "<strong>CVE ID :</strong>CVE-2026-9764\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 2 hours, 12 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Bob 1.0.4 through 2.0.1 could allow a remote attacker to inject arbitrary code on the system, due to the improper control of user input code.\n  <br />\n  <strong>Severity:</strong> 8.8 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-9764\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 5 hours, 55 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Bob 1.0.4 through 2.0.1 could allow a remote attacker to inject arbitrary code on the system, due to the improper control of user input code.\n  <br />\n  <strong>Severity:</strong> 8.8 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 19:17:54 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.418Z"
@@ -6820,7 +6828,7 @@
    {
     "title": "CVE-2026-97677 - Langflow OSS is affected by multiple vulnerabilities",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-97677",
-    "description": "<strong>CVE ID :</strong>CVE-2026-97677\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 2 hours, 12 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Langflow OSS 1.0.0 through 1.12.2 An authenticated flow author could write attacker-controlled file content into any directory writable by the service account, bypassing the platform's local file access isolation safeguard. Via a crafted on-disk index, the attacker could also read the contents of arbitrary files accessible to the service process — including configuration files, secrets, or database files stored under the application's data directory.\n  <br />\n  <strong>Severity:</strong> 8.1 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-97677\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 5 hours, 55 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Langflow OSS 1.0.0 through 1.12.2 An authenticated flow author could write attacker-controlled file content into any directory writable by the service account, bypassing the platform's local file access isolation safeguard. Via a crafted on-disk index, the attacker could also read the contents of arbitrary files accessible to the service process — including configuration files, secrets, or database files stored under the application's data directory.\n  <br />\n  <strong>Severity:</strong> 8.1 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 19:17:54 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.418Z"
@@ -6828,7 +6836,7 @@
    {
     "title": "CVE-2026-8639 - IBM Verify Directory is affected by multiple vulnerabilities",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-8639",
-    "description": "<strong>CVE ID :</strong>CVE-2026-8639\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 2 hours, 12 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Security Verify Directory 10.0.0 through 10.0.4 and IBM Verify Directory 11.0.0 is vulnerable to session fixation. An attacker can establish a session and, after the victim authenticates, hijack the authenticated session to gain unauthorized access to the directory management console.\n  <br />\n  <strong>Severity:</strong> 8.8 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-8639\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 5 hours, 55 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Security Verify Directory 10.0.0 through 10.0.4 and IBM Verify Directory 11.0.0 is vulnerable to session fixation. An attacker can establish a session and, after the victim authenticates, hijack the authenticated session to gain unauthorized access to the directory management console.\n  <br />\n  <strong>Severity:</strong> 8.8 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 19:17:42 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.418Z"
@@ -6836,7 +6844,7 @@
    {
     "title": "CVE-2026-6715 - Multiple Vulnerabilities in IBM Concert Software",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-6715",
-    "description": "<strong>CVE ID :</strong>CVE-2026-6715\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 2 hours, 12 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Concert 1.0 through 3.0.1.1 allows an attacker can supply crafted input that is incorporated into an operating system command without adequate validation or sanitization. Successful exploitation allows remote attackers to execute arbitrary commands on the underlying operating system with the privileges of the affected service.\n  <br />\n  <strong>Severity:</strong> 9.8 | CRITICAL\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-6715\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 5 hours, 55 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Concert 1.0 through 3.0.1.1 allows an attacker can supply crafted input that is incorporated into an operating system command without adequate validation or sanitization. Successful exploitation allows remote attackers to execute arbitrary commands on the underlying operating system with the privileges of the affected service.\n  <br />\n  <strong>Severity:</strong> 9.8 | CRITICAL\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 19:17:39 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.418Z"
@@ -6844,7 +6852,7 @@
    {
     "title": "CVE-2026-19133 - TS4500 Tape Library addresses security vulnerability",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-19133",
-    "description": "<strong>CVE ID :</strong>CVE-2026-19133\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 2 hours, 12 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Storage TS4500 Library 1.1.1.6 through 1.12.0.3 could allow a remote authenticated attacker to perform unauthorized account takeover due to improper authorization.\n  <br />\n  <strong>Severity:</strong> 8.1 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-19133\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 7:17 p.m. | 5 hours, 55 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Storage TS4500 Library 1.1.1.6 through 1.12.0.3 could allow a remote authenticated attacker to perform unauthorized account takeover due to improper authorization.\n  <br />\n  <strong>Severity:</strong> 8.1 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 19:17:38 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.418Z"
@@ -6852,7 +6860,7 @@
    {
     "title": "CVE-2026-17466 - IBM Optim Test Data Management 1.0.0, 1.1.0, and 1.2.0 impacted by Path Traversal, Rate Limiting, and Weak Password Policy vulnerabilities",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-17466",
-    "description": "<strong>CVE ID :</strong>CVE-2026-17466\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 6:17 p.m. | 3 hours, 13 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Optim 1.0.0, 1.1.0, and 1.2.0 could allow a remote authenticated attacker to obtain sensitive information due to path traversal.\n  <br />\n  <strong>Severity:</strong> 9.1 | CRITICAL\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-17466\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 6:17 p.m. | 6 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Optim 1.0.0, 1.1.0, and 1.2.0 could allow a remote authenticated attacker to obtain sensitive information due to path traversal.\n  <br />\n  <strong>Severity:</strong> 9.1 | CRITICAL\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 18:17:03 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.418Z"
@@ -6860,7 +6868,7 @@
    {
     "title": "CVE-2026-15266 - Multiple Vulnerabilities in IBM Concert Software",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-15266",
-    "description": "<strong>CVE ID :</strong>CVE-2026-15266\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 6:17 p.m. | 3 hours, 13 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Concert 1.0 through 3.0.1.1 contains components that allow potentially unsafe command execution, which could be exploited to run arbitrary system commands on the host.\n  <br />\n  <strong>Severity:</strong> 9.8 | CRITICAL\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-15266\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 6:17 p.m. | 6 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Concert 1.0 through 3.0.1.1 contains components that allow potentially unsafe command execution, which could be exploited to run arbitrary system commands on the host.\n  <br />\n  <strong>Severity:</strong> 9.8 | CRITICAL\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 18:17:02 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.418Z"
@@ -6868,7 +6876,7 @@
    {
     "title": "CVE-2026-117545 - IBM webMethods Integration Server is vulnerable of bypassing the two-factor authentication mechanism.",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-117545",
-    "description": "<strong>CVE ID :</strong>CVE-2026-117545\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 5:16 p.m. | 4 hours, 13 minutes ago\n  <br />\n  <strong>Description :</strong>IBM webMethods Integration Server 12.1 could allow a remote authenticated attacker to bypass security restrictions due to improper authentication.\n  <br />\n  <strong>Severity:</strong> 8.8 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-117545\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 5:16 p.m. | 7 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM webMethods Integration Server 12.1 could allow a remote authenticated attacker to bypass security restrictions due to improper authentication.\n  <br />\n  <strong>Severity:</strong> 8.8 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 17:16:37 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.418Z"
@@ -6876,7 +6884,7 @@
    {
     "title": "CVE-2026-116501 - Qiskit SDK C API may trigger an out of bounds write on accessing the unitary matrix with qk_circuit_inst_unitary().",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-116501",
-    "description": "<strong>CVE ID :</strong>CVE-2026-116501\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 5:16 p.m. | 4 hours, 13 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Qiskit SDK 2.4.0 through 2.6.1 could allow a local attacker to execute arbitrary code due to an out-of-bounds write caused by improper input validation when accessing a corrupted unitary matrix.\n  <br />\n  <strong>Severity:</strong> 8.4 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-116501\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 5:16 p.m. | 7 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Qiskit SDK 2.4.0 through 2.6.1 could allow a local attacker to execute arbitrary code due to an out-of-bounds write caused by improper input validation when accessing a corrupted unitary matrix.\n  <br />\n  <strong>Severity:</strong> 8.4 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 17:16:37 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.418Z"
@@ -6884,7 +6892,7 @@
    {
     "title": "CVE-2026-116499 - Arbitrary Code Execution in Qiskit SDK QPY Deserialization",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-116499",
-    "description": "<strong>CVE ID :</strong>CVE-2026-116499\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 5:16 p.m. | 4 hours, 13 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Qiskit SDK 1.4.2 through 2.6.2 could allow a local attacker to execute arbitrary code due to deserialization of untrusted data.\n  <br />\n  <strong>Severity:</strong> 8.4 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-116499\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 5:16 p.m. | 7 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Qiskit SDK 1.4.2 through 2.6.2 could allow a local attacker to execute arbitrary code due to deserialization of untrusted data.\n  <br />\n  <strong>Severity:</strong> 8.4 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 17:16:36 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.418Z"
@@ -6892,7 +6900,7 @@
    {
     "title": "CVE-2026-114464 - Multiple security vulnerabilities are addressed with IBM Process Mining Interim Fix for October 2026",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-114464",
-    "description": "<strong>CVE ID :</strong>CVE-2026-114464\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 5:16 p.m. | 4 hours, 13 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Process Mining 2.0.0 through 2.2.1 could allow a remote attacker to obtain sensitive information due to improper access control.\n  <br />\n  <strong>Severity:</strong> 9.3 | CRITICAL\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-114464\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 5:16 p.m. | 7 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM Process Mining 2.0.0 through 2.2.1 could allow a remote attacker to obtain sensitive information due to improper access control.\n  <br />\n  <strong>Severity:</strong> 9.3 | CRITICAL\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 17:16:36 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.418Z"
@@ -6900,7 +6908,7 @@
    {
     "title": "CVE-2026-110273 - Security Vulnerability identified in IBM TRIRIGA - Command Execution",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-110273",
-    "description": "<strong>CVE ID :</strong>CVE-2026-110273\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 5:16 p.m. | 4 hours, 13 minutes ago\n  <br />\n  <strong>Description :</strong>IBM TRIRIGA Application Platform 5.0.0 through 5.0.9 IBM TRIRIGA could allow a remote authenticated attacker to execute arbitrary code due to improper neutralization of special elements used in an OS command.\n  <br />\n  <strong>Severity:</strong> 8.8 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-110273\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 5:16 p.m. | 7 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM TRIRIGA Application Platform 5.0.0 through 5.0.9 IBM TRIRIGA could allow a remote authenticated attacker to execute arbitrary code due to improper neutralization of special elements used in an OS command.\n  <br />\n  <strong>Severity:</strong> 8.8 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 17:16:36 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:40.418Z"
@@ -6908,7 +6916,7 @@
    {
     "title": "CVE-2026-107331 - DataStage on Cloud Pak for Data has several vulnerabilities",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-107331",
-    "description": "<strong>CVE ID :</strong>CVE-2026-107331\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 5:16 p.m. | 4 hours, 13 minutes ago\n  <br />\n  <strong>Description :</strong>IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to obtain sensitive information due to an absolute-path traversal vulnerability.\n  <br />\n  <strong>Severity:</strong> 9.9 | CRITICAL\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-107331\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 5:16 p.m. | 7 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to obtain sensitive information due to an absolute-path traversal vulnerability.\n  <br />\n  <strong>Severity:</strong> 9.9 | CRITICAL\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 17:16:35 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T18:59:41.964Z"
@@ -6916,7 +6924,7 @@
    {
     "title": "CVE-2026-105467 - IBM QRadar SIEM is vulnerable to Open Redirect and Reflected XSS",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-105467",
-    "description": "<strong>CVE ID :</strong>CVE-2026-105467\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 5:16 p.m. | 4 hours, 13 minutes ago\n  <br />\n  <strong>Description :</strong>IBM QRadar 7.5.0 through 7.5.0 Update Pack 16 Interim Fix 02, and 7.6.0.0 through 7.6.0.5 is vulnerable to Reflected XSS. A victim must open a specifically crafted URL while authenticated to QRadar to trigger this.\n  <br />\n  <strong>Severity:</strong> 8.1 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-105467\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 5:16 p.m. | 7 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM QRadar 7.5.0 through 7.5.0 Update Pack 16 Interim Fix 02, and 7.6.0.0 through 7.6.0.5 is vulnerable to Reflected XSS. A victim must open a specifically crafted URL while authenticated to QRadar to trigger this.\n  <br />\n  <strong>Severity:</strong> 8.1 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 17:16:35 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T18:59:41.964Z"
@@ -6924,7 +6932,7 @@
    {
     "title": "CVE-2026-114189 - WordPress AnyWhere Elementor plugin <= 1.3.0 - SQL Injection vulnerability",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-114189",
-    "description": "<strong>CVE ID :</strong>CVE-2026-114189\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 4:16 p.m. | 5 hours, 13 minutes ago\n  <br />\n  <strong>Description :</strong>Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in WPVibes AnyWhere Elementor anywhere-elementor allows Blind SQL Injection.This issue affects AnyWhere Elementor: from n/a through 1.3.0.\n  <br />\n  <strong>Severity:</strong> 8.5 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-114189\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 4:16 p.m. | 8 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in WPVibes AnyWhere Elementor anywhere-elementor allows Blind SQL Injection.This issue affects AnyWhere Elementor: from n/a through 1.3.0.\n  <br />\n  <strong>Severity:</strong> 8.5 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 16:16:37 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T18:59:41.964Z"
@@ -6932,7 +6940,7 @@
    {
     "title": "CVE-2026-109900 - WordPress Melapress Role Editor plugin <= 1.3.0 - Privilege Escalation vulnerability",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-109900",
-    "description": "<strong>CVE ID :</strong>CVE-2026-109900\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 4:16 p.m. | 5 hours, 13 minutes ago\n  <br />\n  <strong>Description :</strong>Incorrect Privilege Assignment vulnerability in Melapress Melapress Role Editor melapress-role-editor allows Privilege Escalation.This issue affects Melapress Role Editor: from n/a through 1.3.0.\n  <br />\n  <strong>Severity:</strong> 9.6 | CRITICAL\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-109900\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 4:16 p.m. | 8 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>Incorrect Privilege Assignment vulnerability in Melapress Melapress Role Editor melapress-role-editor allows Privilege Escalation.This issue affects Melapress Role Editor: from n/a through 1.3.0.\n  <br />\n  <strong>Severity:</strong> 9.6 | CRITICAL\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 16:16:36 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T18:59:41.964Z"
@@ -6940,7 +6948,7 @@
    {
     "title": "CVE-2026-101117 - IBM WebSphere eXtremes Scale Liberty deployment is affected by Cross Site Scripting(XSS) attacks.",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-101117",
-    "description": "<strong>CVE ID :</strong>CVE-2026-101117\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 4:16 p.m. | 5 hours, 13 minutes ago\n  <br />\n  <strong>Description :</strong>IBM WebSphere Extreme Scale 8.6.1.0 through 8.6.2.2 could allow a remote attacker to bypass security restrictions due to improper Content Security Policy configuration.\n  <br />\n  <strong>Severity:</strong> 9.1 | CRITICAL\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-101117\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 4:16 p.m. | 8 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>IBM WebSphere Extreme Scale 8.6.1.0 through 8.6.2.2 could allow a remote attacker to bypass security restrictions due to improper Content Security Policy configuration.\n  <br />\n  <strong>Severity:</strong> 9.1 | CRITICAL\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 16:16:36 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T18:59:41.964Z"
@@ -6948,7 +6956,7 @@
    {
     "title": "CVE-2026-124553 - BabelDOC from 0.3.61 before 0.7.0 Denial of Service via ToUnicode CMap Parsing",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-124553",
-    "description": "<strong>CVE ID :</strong>CVE-2026-124553\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 3:16 p.m. | 6 hours, 13 minutes ago\n  <br />\n  <strong>Description :</strong>BabelDOC from 0.3.61 before 0.7.0 contains a resource exhaustion vulnerability that allows remote attackers to exhaust CPU and memory by supplying unbounded bfrange and cidrange spans. Attackers can submit a crafted PDF whose embedded ToUnicode CMap declares a huge range, driving billions of loop iterations and stalling the translation worker.\n  <br />\n  <strong>Severity:</strong> 8.7 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-124553\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 3:16 p.m. | 9 hours, 56 minutes ago\n  <br />\n  <strong>Description :</strong>BabelDOC from 0.3.61 before 0.7.0 contains a resource exhaustion vulnerability that allows remote attackers to exhaust CPU and memory by supplying unbounded bfrange and cidrange spans. Attackers can submit a crafted PDF whose embedded ToUnicode CMap declares a huge range, driving billions of loop iterations and stalling the translation worker.\n  <br />\n  <strong>Severity:</strong> 8.7 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 15:16:51 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T18:59:41.964Z"
@@ -6956,7 +6964,7 @@
    {
     "title": "CVE-2026-124494 - SunEditor before 3.4.0 Stored XSS via &colon; Entity Sanitizer Bypass",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-124494",
-    "description": "<strong>CVE ID :</strong>CVE-2026-124494\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 2:18 p.m. | 7 hours, 12 minutes ago\n  <br />\n  <strong>Description :</strong>SunEditor before 3.4.0 contains a stored cross-site scripting vulnerability because the html.clean() sanitizer's _normalizeURL() function decodes named entities like &colon; to an empty string. Attackers can inject href values such as javascript&colon; that pass the _isSafeURL() check but are decoded by browsers, executing JavaScript when victims click stored links.\n  <br />\n  <strong>Severity:</strong> 9.3 | CRITICAL\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-124494\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 2:18 p.m. | 10 hours, 54 minutes ago\n  <br />\n  <strong>Description :</strong>SunEditor before 3.4.0 contains a stored cross-site scripting vulnerability because the html.clean() sanitizer's _normalizeURL() function decodes named entities like &colon; to an empty string. Attackers can inject href values such as javascript&colon; that pass the _isSafeURL() check but are decoded by browsers, executing JavaScript when victims click stored links.\n  <br />\n  <strong>Severity:</strong> 9.3 | CRITICAL\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 14:18:19 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T14:13:05.014Z"
@@ -6964,7 +6972,7 @@
    {
     "title": "CVE-2026-124493 - SunEditor before 3.4.0 Stored XSS via DocumentType Header textContent",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-124493",
-    "description": "<strong>CVE ID :</strong>CVE-2026-124493\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 2:18 p.m. | 7 hours, 12 minutes ago\n  <br />\n  <strong>Description :</strong>SunEditor before 3.4.0 contains a stored cross-site scripting vulnerability in the DocumentType constructor that injects header textContent into innerHTML without HTML escaping. Attackers can store entity-encoded HTML in h1-h6 headers that executes JavaScript when editors using document:header mode initialize, enabling session cookie theft.\n  <br />\n  <strong>Severity:</strong> 9.3 | CRITICAL\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-124493\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 2:18 p.m. | 10 hours, 54 minutes ago\n  <br />\n  <strong>Description :</strong>SunEditor before 3.4.0 contains a stored cross-site scripting vulnerability in the DocumentType constructor that injects header textContent into innerHTML without HTML escaping. Attackers can store entity-encoded HTML in h1-h6 headers that executes JavaScript when editors using document:header mode initialize, enabling session cookie theft.\n  <br />\n  <strong>Severity:</strong> 9.3 | CRITICAL\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 14:18:19 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T14:13:05.014Z"
@@ -6972,7 +6980,7 @@
    {
     "title": "CVE-2026-124492 - SunEditor before 3.4.0 Stored XSS via Link Modal Bookmark List",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-124492",
-    "description": "<strong>CVE ID :</strong>CVE-2026-124492\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 2:18 p.m. | 7 hours, 12 minutes ago\n  <br />\n  <strong>Description :</strong>SunEditor before 3.4.0 contains a stored cross-site scripting vulnerability in ModalAnchorEditor's #createBookmarkList, which inserts entity-decoded h1-h6 header textContent into the bookmark list via innerHTML without escaping. Attackers can store HTML-encoded payloads in editor headers that execute JavaScript when a victim opens the link modal and types # in the URL input.\n  <br />\n  <strong>Severity:</strong> 8.3 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-124492\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 2:18 p.m. | 10 hours, 54 minutes ago\n  <br />\n  <strong>Description :</strong>SunEditor before 3.4.0 contains a stored cross-site scripting vulnerability in ModalAnchorEditor's #createBookmarkList, which inserts entity-decoded h1-h6 header textContent into the bookmark list via innerHTML without escaping. Attackers can store HTML-encoded payloads in editor headers that execute JavaScript when a victim opens the link modal and types # in the URL input.\n  <br />\n  <strong>Severity:</strong> 8.3 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 14:18:18 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T14:13:05.014Z"
@@ -6980,7 +6988,7 @@
    {
     "title": "CVE-2026-124490 - OpenEMR before 8.3.0 Arbitrary File Read/Write via oe-module-faxsms disposeDocument",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-124490",
-    "description": "<strong>CVE ID :</strong>CVE-2026-124490\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 2:18 p.m. | 7 hours, 12 minutes ago\n  <br />\n  <strong>Description :</strong>OpenEMR before 8.3.0 contains a path traversal vulnerability in the RingCentral RCFaxClient disposeDocument() method of oe-module-faxsms that allows authenticated attackers to read and write arbitrary files via the file_path parameter. Attackers can use action=download to read credentials and source code, or action=setup with base64 content to write web-executable files for code execution.\n  <br />\n  <strong>Severity:</strong> 9.4 | CRITICAL\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-124490\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 2:18 p.m. | 10 hours, 54 minutes ago\n  <br />\n  <strong>Description :</strong>OpenEMR before 8.3.0 contains a path traversal vulnerability in the RingCentral RCFaxClient disposeDocument() method of oe-module-faxsms that allows authenticated attackers to read and write arbitrary files via the file_path parameter. Attackers can use action=download to read credentials and source code, or action=setup with base64 content to write web-executable files for code execution.\n  <br />\n  <strong>Severity:</strong> 9.4 | CRITICAL\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 14:18:18 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T14:13:05.014Z"
@@ -6988,7 +6996,7 @@
    {
     "title": "CVE-2026-124488 - OpenEMR before 8.3.0 Authorization Bypass via load_form.php High-Sensitivity Encounters",
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-124488",
-    "description": "<strong>CVE ID :</strong>CVE-2026-124488\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 2:18 p.m. | 7 hours, 12 minutes ago\n  <br />\n  <strong>Description :</strong>OpenEMR before 8.3.0 contains an authorization bypass vulnerability that allows authenticated clinicians lacking high-sensitivity permission to read and modify encounter-bound forms via load_form.php. Attackers can request the Clinical Notes or Care Plan direct loader to obtain restricted content and a CSRF token, then submit save.php to tamper with clinical records.\n  <br />\n  <strong>Severity:</strong> 8.6 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
+    "description": "<strong>CVE ID :</strong>CVE-2026-124488\n  <br />\n  <strong>Published :</strong> Nov. 8, 2026, 2:18 p.m. | 10 hours, 54 minutes ago\n  <br />\n  <strong>Description :</strong>OpenEMR before 8.3.0 contains an authorization bypass vulnerability that allows authenticated clinicians lacking high-sensitivity permission to read and modify encounter-bound forms via load_form.php. Attackers can request the Clinical Notes or Care Plan direct loader to obtain restricted content and a CSRF token, then submit save.php to tamper with clinical records.\n  <br />\n  <strong>Severity:</strong> 8.6 | HIGH\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Sun, 08 Nov 2026 14:18:18 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T14:13:05.014Z"
@@ -7990,14 +7998,6 @@
     "link": "https://cvefeed.io/vuln/detail/CVE-2026-123832",
     "description": "<strong>CVE ID :</strong>CVE-2026-123832\n  <br />\n  <strong>Published :</strong> Nov. 6, 2026, 4:09 p.m. | 1 hour, 17 minutes ago\n  <br />\n  <strong>Description :</strong>In JetBrains CLion before 2026.2 code execution was possible in Safe Mode via JSON compilation database\n  <br />\n  <strong>Severity:</strong> 9.6 | CRITICAL\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
     "pubDate": "Fri, 06 Nov 2026 16:09:59 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-06T18:18:57.478Z"
-   },
-   {
-    "title": "CVE-2026-123831 - JetBrains CLion Safe Mode Remote Code Execution",
-    "link": "https://cvefeed.io/vuln/detail/CVE-2026-123831",
-    "description": "<strong>CVE ID :</strong>CVE-2026-123831\n  <br />\n  <strong>Published :</strong> Nov. 6, 2026, 4:09 p.m. | 1 hour, 17 minutes ago\n  <br />\n  <strong>Description :</strong>In JetBrains CLion before 2026.2, \n2026.1.4 code execution was possible in Safe Mode via Meson project settings\n  <br />\n  <strong>Severity:</strong> 9.6 | CRITICAL\n  <br />\n  Visit the link for more details, such as CVSS details, affected products, timeline, and more...",
-    "pubDate": "Fri, 06 Nov 2026 16:09:58 +0000",
     "categories": [],
     "firstSeen": "2026-11-06T18:18:57.478Z"
    }
@@ -10897,6 +10897,246 @@
     "firstSeen": "2026-10-25T09:20:05.105Z"
    },
    {
+    "title": "tryhackme-php2shell exploit",
+    "link": "https://sploitus.com/exploit?id=80164FC0-3355-5D31-B2FD-77974307FD71&utm_source=rss&utm_medium=rss",
+    "description": "Proof-of-concept exploit for CVE-2026-109618 and CVE-2026-109619. CVSS 9.8.",
+    "pubDate": "Mon, 09 Nov 2026 00:35:42 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "Vulners Software Audit exploit",
+    "link": "https://sploitus.com/exploit?id=KS:SCANNER-VULNERS-SOFTWARE_AUDIT&utm_source=rss&utm_medium=rss",
+    "description": "Exploit (Python).",
+    "pubDate": "Sun, 08 Nov 2026 23:17:15 +0000",
+    "categories": [],
+    "firstSeen": "2026-10-29T02:45:42.804Z"
+   },
+   {
+    "title": "Exploit for CVE-2026-113386",
+    "link": "https://sploitus.com/exploit?id=3CFE4ACC-CDC0-5571-A68E-16091798B40E&utm_source=rss&utm_medium=rss",
+    "description": "Proof-of-concept exploit for CVE-2026-113386. CVSS 7.1.",
+    "pubDate": "Sun, 08 Nov 2026 23:09:00 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "hack-skills exploit",
+    "link": "https://sploitus.com/exploit?id=ACCF8892-CF01-5E66-90D2-13F5505890A9&utm_source=rss&utm_medium=rss",
+    "description": "Exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:54:01 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "malice exploit",
+    "link": "https://sploitus.com/exploit?id=KITPLOIT:6336755542880457328&utm_source=rss&utm_medium=rss",
+    "description": "Exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:48:29 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "vulners-scanner exploit",
+    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-VULNERSCOM-VULNERS-SCANNER&utm_source=rss&utm_medium=rss",
+    "description": "Exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:46:13 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "keyfinder exploit",
+    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CERTCC-KEYFINDER&utm_source=rss&utm_medium=rss",
+    "description": "Exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:45:03 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "Hob0Rules exploit",
+    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PRAETORIAN-INC-HOB0RULES&utm_source=rss&utm_medium=rss",
+    "description": "Exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:45:03 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "Veil-Evasion exploit",
+    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-VEIL-FRAMEWORK-VEIL-EVASION&utm_source=rss&utm_medium=rss",
+    "description": "Exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:45:03 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "goldig exploit",
+    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITLAB-RTFMKIESEL-GOLDIG&utm_source=rss&utm_medium=rss",
+    "description": "Exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:44:31 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "SQLiScanner exploit",
+    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-0XBUG-SQLISCANNER&utm_source=rss&utm_medium=rss",
+    "description": "Exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:43:33 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "LSB-Steganography exploit",
+    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ROBINDAVID-LSB-STEGANOGRAPHY&utm_source=rss&utm_medium=rss",
+    "description": "Exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:43:33 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "aztarna exploit",
+    "link": "https://sploitus.com/exploit?id=KITPLOIT:2961151497323480647&utm_source=rss&utm_medium=rss",
+    "description": "Exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:43:00 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "HERCULES exploit",
+    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-EGEBALCI-HERCULES&utm_source=rss&utm_medium=rss",
+    "description": "Exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:42:25 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "msf-remote-console exploit",
+    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-QUBASA-MSF-REMOTE-CONSOLE&utm_source=rss&utm_medium=rss",
+    "description": "Exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:42:25 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "LeakLooker exploit",
+    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WOJ-CIECH-LEAKLOOKER&utm_source=rss&utm_medium=rss",
+    "description": "Exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:42:25 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "vajra exploit",
+    "link": "https://sploitus.com/exploit?id=KITPLOIT:1197401117828791213&utm_source=rss&utm_medium=rss",
+    "description": "Exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:41:49 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "CrackMapExec exploit",
+    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BYT3BL33D3R-CRACKMAPEXEC&utm_source=rss&utm_medium=rss",
+    "description": "Exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:41:49 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "WLT3Serial exploit",
+    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BORT-MILLIPEDE-WLT3SERIAL&utm_source=rss&utm_medium=rss",
+    "description": "Exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:40:27 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "trommel exploit",
+    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CERTCC-TROMMEL&utm_source=rss&utm_medium=rss",
+    "description": "Exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:38:44 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "exploitdb",
+    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OFFENSIVE-SECURITY-EXPLOITDB&utm_source=rss&utm_medium=rss",
+    "description": "Exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:38:44 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "purpleteam-tls-checker exploit",
+    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITLAB-PURPLETEAM-LABS-PURPLETEAM-TLS-CHECKER&utm_source=rss&utm_medium=rss",
+    "description": "Exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:38:44 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "dnscrypt-autoinstall exploit",
+    "link": "https://sploitus.com/exploit?id=KITPLOIT:1748935623032920841&utm_source=rss&utm_medium=rss",
+    "description": "Exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:37:50 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "ssh_scan exploit",
+    "link": "https://sploitus.com/exploit?id=KITPLOIT:7903962802610782928&utm_source=rss&utm_medium=rss",
+    "description": "Exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:37:50 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "Phantom-Evasion exploit",
+    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ODDCOD3-PHANTOM-EVASION&utm_source=rss&utm_medium=rss",
+    "description": "Exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:37:50 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "Sherlock exploit",
+    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RASTA-MOUSE-SHERLOCK&utm_source=rss&utm_medium=rss",
+    "description": "Exploit for CVE-2017-7199. CVSS 7.8.",
+    "pubDate": "Sun, 08 Nov 2026 22:37:50 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "r2kit exploit",
+    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CMATTHEWBROOKS-R2KIT&utm_source=rss&utm_medium=rss",
+    "description": "Exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:35:05 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "GHSA-xqc2-xf4c-x3h3-rce-poc exploit",
+    "link": "https://sploitus.com/exploit?id=209155FA-7A6D-59A6-AA73-A4B23ACE6400&utm_source=rss&utm_medium=rss",
+    "description": "Proof-of-concept exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:17:25 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "airecon exploit",
+    "link": "https://sploitus.com/exploit?id=A9CBEFDD-DC7B-5D35-B81C-B0A4265996B3&utm_source=rss&utm_medium=rss",
+    "description": "Exploit.",
+    "pubDate": "Sun, 08 Nov 2026 22:14:55 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
+    "title": "Exploit for CVE-2025-59845",
+    "link": "https://sploitus.com/exploit?id=55A5A07E-1103-5271-A8A9-2DD28C062B4D&utm_source=rss&utm_medium=rss",
+    "description": "Proof-of-concept exploit for CVE-2025-59845. CVSS 8.2.",
+    "pubDate": "Sun, 08 Nov 2026 21:24:23 +0000",
+    "categories": [],
+    "firstSeen": "2026-11-09T02:32:20.122Z"
+   },
+   {
     "title": "Exploit for Improperly Controlled Sequential Memory Allocation in Php",
     "link": "https://sploitus.com/exploit?id=8E5F7EFA-D570-5697-840E-DBDFE6A53A43&utm_source=rss&utm_medium=rss",
     "description": "Proof-of-concept exploit for CVE-2026-109619. CVSS 9.2.",
@@ -10967,14 +11207,6 @@
     "pubDate": "Sun, 08 Nov 2026 17:34:54 +0000",
     "categories": [],
     "firstSeen": "2026-11-08T22:48:41.851Z"
-   },
-   {
-    "title": "Vulners Software Audit exploit",
-    "link": "https://sploitus.com/exploit?id=KS:SCANNER-VULNERS-SOFTWARE_AUDIT&utm_source=rss&utm_medium=rss",
-    "description": "Exploit (Python).",
-    "pubDate": "Sun, 08 Nov 2026 17:17:15 +0000",
-    "categories": [],
-    "firstSeen": "2026-10-29T02:45:42.804Z"
    },
    {
     "title": "CVE-2026-117545 exploit",
@@ -11855,241 +12087,27 @@
     "pubDate": "Sat, 07 Nov 2026 12:41:41 +0000",
     "categories": [],
     "firstSeen": "2026-11-07T16:47:39.004Z"
-   },
-   {
-    "title": "tirreno exploit",
-    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TIRRENOTECHNOLOGIES-TIRRENO&utm_source=rss&utm_medium=rss",
-    "description": "Exploit.",
-    "pubDate": "Sat, 07 Nov 2026 12:40:42 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T16:47:39.004Z"
-   },
-   {
-    "title": "Exploit for CVE-2026-98432",
-    "link": "https://sploitus.com/exploit?id=84F0AF24-27A0-5825-B93C-C9156C2ECA33&utm_source=rss&utm_medium=rss",
-    "description": "Proof-of-concept exploit for CVE-2026-98432. CVSS 9.8.",
-    "pubDate": "Sat, 07 Nov 2026 12:39:34 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T16:47:39.004Z"
-   },
-   {
-    "title": "bitcracker exploit",
-    "link": "https://sploitus.com/exploit?id=KITPLOIT:2008041285543762824&utm_source=rss&utm_medium=rss",
-    "description": "Exploit.",
-    "pubDate": "Sat, 07 Nov 2026 12:38:23 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T16:47:39.004Z"
-   },
-   {
-    "title": "pi-pwnbox-rogueap exploit",
-    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KOUTTO-PI-PWNBOX-ROGUEAP&utm_source=rss&utm_medium=rss",
-    "description": "Exploit.",
-    "pubDate": "Sat, 07 Nov 2026 12:37:30 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T16:47:39.004Z"
-   },
-   {
-    "title": "theHarvester exploit",
-    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LARAMIES-THEHARVESTER&utm_source=rss&utm_medium=rss",
-    "description": "Exploit.",
-    "pubDate": "Sat, 07 Nov 2026 12:32:28 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T16:47:39.004Z"
-   },
-   {
-    "title": "yamaha-smaf-player exploit",
-    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AKUSTIKRAUSCH-YAMAHA-SMAF-PLAYER&utm_source=rss&utm_medium=rss",
-    "description": "Exploit.",
-    "pubDate": "Sat, 07 Nov 2026 12:32:07 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T16:47:39.004Z"
-   },
-   {
-    "title": "nrf24-injection exploit",
-    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-XSWXM-NRF24-INJECTION&utm_source=rss&utm_medium=rss",
-    "description": "Exploit.",
-    "pubDate": "Sat, 07 Nov 2026 12:31:26 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T16:47:39.004Z"
-   },
-   {
-    "title": "Exploit for CVE-2026-94641",
-    "link": "https://sploitus.com/exploit?id=264C51FB-CFE5-526D-A513-8D2C57947962&utm_source=rss&utm_medium=rss",
-    "description": "Proof-of-concept exploit for CVE-2026-94641. CVSS 7.1.",
-    "pubDate": "Sat, 07 Nov 2026 12:31:02 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T16:47:39.004Z"
-   },
-   {
-    "title": "Exploit for CVE-2026-94641",
-    "link": "https://sploitus.com/exploit?id=8A60F948-FAE2-5AA4-8EE9-712DD91C54BE&utm_source=rss&utm_medium=rss",
-    "description": "Proof-of-concept exploit for CVE-2026-94641. CVSS 7.1.",
-    "pubDate": "Sat, 07 Nov 2026 12:31:02 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T16:47:39.004Z"
-   },
-   {
-    "title": "Exploit for CVE-2026-94074",
-    "link": "https://sploitus.com/exploit?id=9548F11B-069B-5E97-8F36-A0E8F01D7CDD&utm_source=rss&utm_medium=rss",
-    "description": "Proof-of-concept exploit for CVE-2026-94074. CVSS 6.5.",
-    "pubDate": "Sat, 07 Nov 2026 12:30:53 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T16:47:39.004Z"
-   },
-   {
-    "title": "Exploit for CVE-2026-94074",
-    "link": "https://sploitus.com/exploit?id=B925427F-2B84-5CA1-BED5-B0ED110A53B2&utm_source=rss&utm_medium=rss",
-    "description": "Proof-of-concept exploit for CVE-2026-94074. CVSS 6.5.",
-    "pubDate": "Sat, 07 Nov 2026 12:30:53 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T16:47:39.004Z"
-   },
-   {
-    "title": "Exploit for CVE-2026-61989",
-    "link": "https://sploitus.com/exploit?id=6C499136-2CD5-5ED1-A645-60AA4748BB76&utm_source=rss&utm_medium=rss",
-    "description": "Proof-of-concept exploit for CVE-2026-61989. CVSS 7.1.",
-    "pubDate": "Sat, 07 Nov 2026 12:30:44 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T16:47:39.004Z"
-   },
-   {
-    "title": "Exploit for CVE-2026-61989",
-    "link": "https://sploitus.com/exploit?id=D53CD4C5-93AD-5113-BF5F-0B69D2F15205&utm_source=rss&utm_medium=rss",
-    "description": "Proof-of-concept exploit for CVE-2026-61989. CVSS 7.1.",
-    "pubDate": "Sat, 07 Nov 2026 12:30:44 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T16:47:39.004Z"
-   },
-   {
-    "title": "Exploit for CVE-2026-39732",
-    "link": "https://sploitus.com/exploit?id=3C104BE6-16B8-5B6A-A4CA-1441E8DBD227&utm_source=rss&utm_medium=rss",
-    "description": "Proof-of-concept exploit for CVE-2026-39732. CVSS 9.3.",
-    "pubDate": "Sat, 07 Nov 2026 12:30:36 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T16:47:39.004Z"
-   },
-   {
-    "title": "Exploit for CVE-2026-39732",
-    "link": "https://sploitus.com/exploit?id=4079DF89-D851-5000-BD27-ED8DD22A6008&utm_source=rss&utm_medium=rss",
-    "description": "Proof-of-concept exploit for CVE-2026-39732. CVSS 9.3.",
-    "pubDate": "Sat, 07 Nov 2026 12:30:36 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T16:47:39.004Z"
-   },
-   {
-    "title": "Exploit for CVE-2026-122675",
-    "link": "https://sploitus.com/exploit?id=016F1D22-D22F-5EB3-AF9D-1483173ACE7F&utm_source=rss&utm_medium=rss",
-    "description": "Proof-of-concept exploit for CVE-2026-122675. CVSS 5.4.",
-    "pubDate": "Sat, 07 Nov 2026 12:30:27 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T16:47:39.004Z"
-   },
-   {
-    "title": "Exploit for CVE-2026-122675",
-    "link": "https://sploitus.com/exploit?id=4A78503B-109A-53EA-AC1B-EE41E8C8A25D&utm_source=rss&utm_medium=rss",
-    "description": "Proof-of-concept exploit for CVE-2026-122675. CVSS 5.4.",
-    "pubDate": "Sat, 07 Nov 2026 12:30:27 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T16:47:39.004Z"
-   },
-   {
-    "title": "Exploit for CVE-2026-115596",
-    "link": "https://sploitus.com/exploit?id=1D85F4B6-15EB-5519-9DD9-0A81656B635A&utm_source=rss&utm_medium=rss",
-    "description": "Proof-of-concept exploit for CVE-2026-115596. CVSS 7.1.",
-    "pubDate": "Sat, 07 Nov 2026 12:30:18 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T16:47:39.004Z"
-   },
-   {
-    "title": "Exploit for CVE-2026-115596",
-    "link": "https://sploitus.com/exploit?id=BAC8B72D-48BB-5E23-A987-86516E466B57&utm_source=rss&utm_medium=rss",
-    "description": "Proof-of-concept exploit for CVE-2026-115596. CVSS 7.1.",
-    "pubDate": "Sat, 07 Nov 2026 12:30:18 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T16:47:39.004Z"
-   },
-   {
-    "title": "mcp-server-delphi exploit",
-    "link": "https://sploitus.com/exploit?id=7A6C78B2-58FE-547B-B335-F40426B5C270&utm_source=rss&utm_medium=rss",
-    "description": "Exploit.",
-    "pubDate": "Sat, 07 Nov 2026 09:50:48 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T10:37:16.637Z"
-   },
-   {
-    "title": "Exploit for Use After Free in Linux Linux_Kernel",
-    "link": "https://sploitus.com/exploit?id=9C38629C-CDF5-5F04-B9D7-8FB5C889EA7B&utm_source=rss&utm_medium=rss",
-    "description": "Proof-of-concept exploit for CVE-2026-43499. CVSS 7.8.",
-    "pubDate": "Sat, 07 Nov 2026 09:48:46 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T10:37:16.637Z"
-   },
-   {
-    "title": "cve_2026_84411_poc- exploit",
-    "link": "https://sploitus.com/exploit?id=A5BDEB95-E931-5E93-94F5-9553EB659584&utm_source=rss&utm_medium=rss",
-    "description": "Proof-of-concept exploit for CVE-2026-84411. CVSS 9.8.",
-    "pubDate": "Sat, 07 Nov 2026 08:57:59 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T10:37:16.637Z"
-   },
-   {
-    "title": "Exploit for Heap-based Buffer Overflow in Linux Linux_Kernel",
-    "link": "https://sploitus.com/exploit?id=8D7B553A-B137-515C-A8C1-E8FBDFAF2ABC&utm_source=rss&utm_medium=rss",
-    "description": "Proof-of-concept exploit for CVE-2026-53362. CVSS 7.8.",
-    "pubDate": "Sat, 07 Nov 2026 08:29:23 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T10:37:16.637Z"
-   },
-   {
-    "title": "Exploit for Use After Free in Linux Linux_Kernel",
-    "link": "https://sploitus.com/exploit?id=E94DC783-CD88-5667-923C-FD097E835BE8&utm_source=rss&utm_medium=rss",
-    "description": "Proof-of-concept exploit for CVE-2019-2215 and CVE-2026-43499. CVSS 7.8.",
-    "pubDate": "Sat, 07 Nov 2026 08:11:40 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T10:37:16.637Z"
-   },
-   {
-    "title": "Exploit for Improperly Controlled Sequential Memory Allocation in Php",
-    "link": "https://sploitus.com/exploit?id=1865C328-D1E4-5EC6-A1E3-49B9562DA369&utm_source=rss&utm_medium=rss",
-    "description": "Proof-of-concept exploit for CVE-2026-109618. CVSS 9.8.",
-    "pubDate": "Sat, 07 Nov 2026 07:31:14 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T10:37:16.637Z"
-   },
-   {
-    "title": "CVE-2024-34102 exploit",
-    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-0X0D3AD-CVE-2024-34102&utm_source=rss&utm_medium=rss",
-    "description": "Exploit for CVE-2024-34102. CVSS 9.8.",
-    "pubDate": "Sat, 07 Nov 2026 06:21:44 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T10:37:16.637Z"
-   },
-   {
-    "title": "overload exploit",
-    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GONCALOPOLIDO-OVERLOAD&utm_source=rss&utm_medium=rss",
-    "description": "Exploit.",
-    "pubDate": "Sat, 07 Nov 2026 05:43:16 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T10:37:16.637Z"
-   },
-   {
-    "title": "Exploit for Time-of-check Time-of-use (TOCTOU) Race Condition in Wordpress",
-    "link": "https://sploitus.com/exploit?id=5BDCFFA0-2376-59B4-A57F-5350243F59C4&utm_source=rss&utm_medium=rss",
-    "description": "Proof-of-concept exploit for CVE-2026-119977. CVSS 8.1.",
-    "pubDate": "Sat, 07 Nov 2026 05:40:08 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T10:37:16.637Z"
-   },
-   {
-    "title": "CVE-2021-28476 exploit",
-    "link": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-0VERCL0K-CVE-2021-28476&utm_source=rss&utm_medium=rss",
-    "description": "Exploit for CVE-2021-28476. CVSS 9.9.",
-    "pubDate": "Sat, 07 Nov 2026 05:27:24 +0000",
-    "categories": [],
-    "firstSeen": "2026-11-07T10:37:16.637Z"
    }
   ],
   "VulDB Recent": [
+   {
+    "title": "CVE-2026-119506 | DynamiApps Frontend Admin Plugin up to 3.30.1 on WordPress privileges management",
+    "link": "https://vuldb.com/vuln/433016",
+    "description": "A vulnerability identified as <a href=\"https://vuldb.com/kb/risk\">critical</a> has been detected in <a href=\"https://vuldb.com/product/dynamiapps:frontend_admin_plugin\">DynamiApps Frontend Admin Plugin up to 3.30.1</a> on WordPress. Affected by this vulnerability is an unknown functionality. This manipulation causes improper privilege management.\n\nThis vulnerability is registered as <a href=\"https://vuldb.com/cve/CVE-2026-119506\">CVE-2026-119506</a>. Remote exploitation of the attack is possible. No exploit is available.",
+    "pubDate": "Mon, 09 Nov 2026 02:12:34 +0100",
+    "categories": [
+     "Vendor: DynamiApps",
+     "Product: Frontend Admin Plugin",
+     "Type: WordPress Plugin",
+     "Risk: critical",
+     "Physical: No",
+     "Local: No",
+     "Remote: Yes",
+     "Exploit: No",
+     "Countermeasures: Unknown"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.151Z"
+   },
    {
     "title": "CVE-2026-124591 | Bahleel 0.1.0/0.1.1 CsvExporter.php fputcsv csv injection",
     "link": "https://vuldb.com/vuln/433015",
@@ -12852,7 +12870,7 @@
     "firstSeen": "2026-11-08T18:59:43.439Z"
    },
    {
-    "title": "CVE-2026-18093 | IBM App Connect Enterprise up to 13.0.8.2 access control",
+    "title": "CVE-2026-18093 | IBM App Connect Enterprise up to 13.0.8.2 access control (WID-SEC-2026-4383)",
     "link": "https://vuldb.com/vuln/432971",
     "description": "A vulnerability was found in <a href=\"https://vuldb.com/product/ibm:app_connect_enterprise\">IBM App Connect Enterprise up to 13.0.8.2</a>. It has been declared as <a href=\"https://vuldb.com/kb/risk\">problematic</a>. Affected is an unknown function. Executing a manipulation can lead to improper access controls.\n\nThis vulnerability is registered as <a href=\"https://vuldb.com/cve/CVE-2026-18093\">CVE-2026-18093</a>. It is possible to launch the attack remotely. No exploit is available.",
     "pubDate": "Sun, 08 Nov 2026 19:15:20 +0100",
@@ -14668,23 +14686,6 @@
      "Countermeasures: Upgrade"
     ],
     "firstSeen": "2026-11-08T14:13:06.978Z"
-   },
-   {
-    "title": "CVE-2026-124479 | OpenEMR up to 8.3.0 Document Download sqlconf.php path traversal",
-    "link": "https://vuldb.com/vuln/432866",
-    "description": "A vulnerability classified as <a href=\"https://vuldb.com/kb/risk\">problematic</a> has been found in <a href=\"https://vuldb.com/product/openemr\">OpenEMR</a>. This issue affects some unknown processing of the file <em>sqlconf.php</em> of the component <em>Document Download</em>. This manipulation causes path traversal.\n\nThis vulnerability is registered as <a href=\"https://vuldb.com/cve/CVE-2026-124479\">CVE-2026-124479</a>. Remote exploitation of the attack is possible. No exploit is available.\n\nIt is recommended to upgrade the affected component.",
-    "pubDate": "Sun, 08 Nov 2026 14:53:50 +0100",
-    "categories": [
-     "Product: OpenEMR",
-     "Type: Business Process Management Software",
-     "Risk: problematic",
-     "Physical: No",
-     "Local: No",
-     "Remote: Yes",
-     "Exploit: No",
-     "Countermeasures: Upgrade"
-    ],
-    "firstSeen": "2026-11-08T14:13:06.978Z"
    }
   ],
   "FortiGuard Outbreak Alerts": [
@@ -14960,6 +14961,106 @@
    }
   ],
   "Antispam Checksum Updates": [
+   {
+    "title": "88.41800",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:51:01 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:21.291Z"
+   },
+   {
+    "title": "88.41799",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:46:01 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:21.291Z"
+   },
+   {
+    "title": "88.41798",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:41:01 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:21.291Z"
+   },
+   {
+    "title": "88.41797",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:36:01 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:21.291Z"
+   },
+   {
+    "title": "88.41796",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:31:01 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:21.291Z"
+   },
+   {
+    "title": "88.41795",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:26:01 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:21.291Z"
+   },
+   {
+    "title": "88.41794",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:21:01 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:21.291Z"
+   },
+   {
+    "title": "88.41793",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:16:02 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:21.291Z"
+   },
+   {
+    "title": "88.41792",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:06:01 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:21.291Z"
+   },
+   {
+    "title": "88.41791",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 00:56:01 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:21.291Z"
+   },
    {
     "title": "88.41762",
     "link": "",
@@ -16359,109 +16460,109 @@
      "Changelog"
     ],
     "firstSeen": "2026-11-05T22:38:00.225Z"
-   },
-   {
-    "title": "88.40951",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:51:01 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.356Z"
-   },
-   {
-    "title": "88.40950",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:46:01 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.356Z"
-   },
-   {
-    "title": "88.40949",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:41:01 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.356Z"
-   },
-   {
-    "title": "88.40948",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:36:01 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.356Z"
-   },
-   {
-    "title": "88.40947",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:31:02 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.356Z"
-   },
-   {
-    "title": "88.40946",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:26:01 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.356Z"
-   },
-   {
-    "title": "88.40945",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:21:02 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.356Z"
-   },
-   {
-    "title": "88.40944",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:16:01 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.356Z"
-   },
-   {
-    "title": "88.40943",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:11:01 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.356Z"
-   },
-   {
-    "title": "88.40942",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:06:02 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.356Z"
    }
   ],
   "Antispam URI Updates": [
+   {
+    "title": "101.33272",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:53:01 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.667Z"
+   },
+   {
+    "title": "101.33271",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:48:02 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.667Z"
+   },
+   {
+    "title": "101.33270",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:43:01 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.667Z"
+   },
+   {
+    "title": "101.33269",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:38:01 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.667Z"
+   },
+   {
+    "title": "101.33268",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:33:02 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.667Z"
+   },
+   {
+    "title": "101.33267",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:28:02 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.667Z"
+   },
+   {
+    "title": "101.33266",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:23:01 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.667Z"
+   },
+   {
+    "title": "101.33265",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:18:01 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.667Z"
+   },
+   {
+    "title": "101.33264",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:13:01 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.667Z"
+   },
+   {
+    "title": "101.33263",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:08:01 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.667Z"
+   },
    {
     "title": "101.33228",
     "link": "",
@@ -17861,109 +17962,109 @@
      "Changelog"
     ],
     "firstSeen": "2026-11-05T22:38:00.242Z"
-   },
-   {
-    "title": "101.32471",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:53:02 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.377Z"
-   },
-   {
-    "title": "101.32470",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:43:01 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.377Z"
-   },
-   {
-    "title": "101.32469",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:33:02 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.377Z"
-   },
-   {
-    "title": "101.32468",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:28:01 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.377Z"
-   },
-   {
-    "title": "101.32467",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:23:01 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.377Z"
-   },
-   {
-    "title": "101.32466",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:13:01 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.377Z"
-   },
-   {
-    "title": "101.32465",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:08:01 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.377Z"
-   },
-   {
-    "title": "101.32464",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:03:02 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.377Z"
-   },
-   {
-    "title": "101.32463",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 14:53:01 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.377Z"
-   },
-   {
-    "title": "101.32462",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 14:48:02 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.377Z"
    }
   ],
   "Antispam IP Updates": [
+   {
+    "title": "107.09268",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:50:02 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.672Z"
+   },
+   {
+    "title": "107.09267",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:40:01 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.672Z"
+   },
+   {
+    "title": "107.09266",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:30:02 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.672Z"
+   },
+   {
+    "title": "107.09265",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:20:01 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.672Z"
+   },
+   {
+    "title": "107.09264",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:10:01 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.672Z"
+   },
+   {
+    "title": "107.09263",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:00:02 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.672Z"
+   },
+   {
+    "title": "107.09262",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 00:50:02 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.672Z"
+   },
+   {
+    "title": "107.09261",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 00:40:02 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.672Z"
+   },
+   {
+    "title": "107.09260",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 00:30:01 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.672Z"
+   },
+   {
+    "title": "107.09259",
+    "link": "",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 00:20:01 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.672Z"
+   },
    {
     "title": "107.09244",
     "link": "",
@@ -19363,109 +19464,19 @@
      "Changelog"
     ],
     "firstSeen": "2026-11-05T22:38:00.266Z"
-   },
-   {
-    "title": "107.08776",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:50:02 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.381Z"
-   },
-   {
-    "title": "107.08775",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:40:01 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.381Z"
-   },
-   {
-    "title": "107.08774",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:30:02 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.381Z"
-   },
-   {
-    "title": "107.08773",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:20:02 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.381Z"
-   },
-   {
-    "title": "107.08772",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:10:01 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.381Z"
-   },
-   {
-    "title": "107.08771",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:00:02 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.381Z"
-   },
-   {
-    "title": "107.08770",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 14:40:01 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.381Z"
-   },
-   {
-    "title": "107.08769",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 14:30:02 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.381Z"
-   },
-   {
-    "title": "107.08768",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 14:20:02 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.381Z"
-   },
-   {
-    "title": "107.08767",
-    "link": "",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 14:10:02 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.381Z"
    }
   ],
   "Antivirus Updates": [
+   {
+    "title": "93.08249",
+    "link": "https://fortiguard.fortinet.com/updates/antivirus?version=93.08249",
+    "description": "<h2>Newly Added (13)</h2><ul><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292376\">Android/Agent.OBJ!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292374\">Linux/Agent.BLJ!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10129076\">MSIL/Discord.AKR!tr.pws</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292377\">MSIL/Injector_AGen.TK!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10206651\">MSIL/Kryptik.ANEV!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292371\">W32/Agent_AGen.HTS!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292370\">W32/FRS.VSNTK726!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292378\">W32/GenKryptik_AGen.CKA!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292379\">W64/Agent_AGen.TFK!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292380\">W64/Agent_AGen.TGU!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292375\">W64/GenKryptik.HXCM!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292372\">W64/GenKryptik.HXFI!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292373\">W64/GenKryptik_AGen.HCG!tr</a></li></ul><h2>Modified (139)</h2><ul><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/103557\">Adware/Agent</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10193228\">Adware/AntiVM_AGen</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/6053960\">Adware/DllInject</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10059806\">Adware/DllInject_AGen</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/8159398\">Adware/Filecoder</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/3222907\">Adware/GameHack</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10069194\">Adware/GameHack_AGen</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/156576\">Adware/Keygen</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/7605865\">Adware/Miner</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/8147275\">Adware/Mirai</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/6541362\">Adware/PSWDump</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10199381\">Adware/RemoteAdmin_FleetDeck</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10253574\">Adware/RemoteAdmin_SimpleHelp</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10198200\">Adware/SoftEtherVPN_AGen</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10271404\">Adware/VulnDriver_Compal</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10289733\">Android/Agent.HCC!tr.spy</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292122\">Android/Agent.OBB!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10145456\">JS/Agent.EC3D!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10280796\">JS/Agent.VDX!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10279152\">Linux/Agent.NQ!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10215014\">Linux/Agent_AGen.AV!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10291766\">Linux/DDoS_Agent.LV!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292211\">Linux/Mirai.FPM!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/6412085\">MSIL/Agent.BBQ!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10240958\">MSIL/Agent.FJH!tr.spy</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10171218\">MSIL/Agent.GBE!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10280855\">MSIL/Agent.GSZ!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10170701\">MSIL/Agent.TDP!tr.pws</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10180917\">MSIL/Agent.TFT!tr.pws</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10253644\">MSIL/Agent.TPQ!tr.pws</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292264\">MSIL/Agent.TSC!tr.pws</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10163062\">MSIL/AgentTesla.K!tr.spy</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10196350\">MSIL/Cassandra.C!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292117\">MSIL/GenCBL.A!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10291119\">MSIL/Kryptik_AGen.EZN!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10184345\">MSIL/LetsVPN.A</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/6595730\">MSIL/Stimilik.FR!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10263979\">MSIL/ThunderFox.A!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/8233130\">Malicious_Behavior.SB</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10151316\">PDF/Agent.ZCP!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/62183\">PossibleThreat</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/8289856\">PossibleThreat.DU</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10003530\">PossibleThreat.FAI</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/8173658\">PossibleThreat.MU</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/8220124\">PossibleThreat.PALLAS.H</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10097207\">PossibleThreat.PALLAS.M</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10012851\">PossibleThreat.PALLASNET.H</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10097206\">PossibleThreat.PALLASNET.M</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/8290953\">PossibleThreat.RF</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/2962223\">Riskware/Agent</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/56879\">Riskware/Application</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/8058407\">Riskware/Application!OSX</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10097334\">Riskware/Avrora</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10000322\">Riskware/ConnectWise</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/8199010\">Riskware/Frp</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/6589614\">Riskware/FusionCore</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/3458590\">Riskware/GameHack</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10060810\">Riskware/GameHack_AGen</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/5987887\">Riskware/GameTool</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/8270750\">Riskware/GenCBL</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10066627\">Riskware/Gost</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/6751466\">Riskware/IObit</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10087518\">Riskware/Injector_AGen</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/3116523\">Riskware/InstallCore</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/8270784\">Riskware/KDU</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10100478\">Riskware/Ludashi</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/8252080\">Riskware/NDAoF</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10012806\">Riskware/OfferCore</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/2962730\">Riskware/Patcher</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10197750\">Riskware/RemoteAdmin_ConnectWiseControl</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/8090914\">Riskware/Segurazo</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10277181\">Riskware/VKGameCenter</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/8266332\">Riskware/VeryFast</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/144785\">W32/Agent.BAC!tr.dldr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10284110\">W32/Agent.EKL!tr.spy</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/6942\">W32/Agent.I!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10291374\">W32/Agent_AGen.HOK!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292300\">W32/Agent_AGen.HTL!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10291682\">W32/Crack.Y!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10206408\">W32/DiscordBot.MN!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10164609\">W32/Expiro.NDX</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10202498\">W32/Filecoder.APP!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10202497\">W32/Filecoder.APP!tr.ransom</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10157700\">W32/Filecoder.XP!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10159403\">W32/Filecoder.XP!tr.ransom</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292102\">W32/GenCBL.FYZ!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10270792\">W32/GenKryptik.HSBQ!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10279294\">W32/Grandoreiro.EV!tr.spy</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/8143506\">W32/Injector.EIPE!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10203902\">W32/Injector_AGen.AJC!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10289846\">W32/MALD2.40BF!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10068102\">W32/NDAoF</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/58991\">W32/PossibleThreat</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10147424\">W32/VB_AGen.FI!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10010585\">W64/Agent.ALM!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292238\">W64/Agent.BAB!tr.pws</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10291962\">W64/Agent.BLQ!tr.spy</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10134243\">W64/Agent.CGZ!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10134682\">W64/Agent.CHO!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10250798\">W64/Agent.CKF!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/7075322\">W64/Agent.FB!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10251892\">W64/Agent.ILM!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/6489177\">W64/Agent.JW!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/7941833\">W64/Agent.LA!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10291856\">W64/Agent.LMW!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10066611\">W64/Agent.ML!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/8209262\">W64/Agent.YF!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10274856\">W64/Agent_AGen.LQH!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292301\">W64/Agent_AGen.TFD!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292307\">W64/Agent_AGen.TFP!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292341\">W64/Agent_AGen.TGJ!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10283695\">W64/CbSThreat.167B!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10283697\">W64/CbSThreat.430F!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10283696\">W64/CbSThreat.5E43!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10283694\">W64/CbSThreat.908B!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10289060\">W64/Expiro.EQ</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10289061\">W64/Expiro.ER</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10278764\">W64/FakeTool.C!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10204874\">W64/Filecoder_AGen.AB!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10289139\">W64/GenKryptik.HVTE!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10290034\">W64/GenKryptik.HWDE!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10291035\">W64/GenKryptik.HWRX!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292149\">W64/GenKryptik.HXBE!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10257449\">W64/GenKryptik_AGen.CXT!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10282914\">W64/GenKryptik_AGen.FCA!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10289923\">W64/GenKryptik_AGen.GKV!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10290694\">W64/GenKryptik_AGen.GMM!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10291770\">W64/GenKryptik_AGen.GUE!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10291331\">W64/GenKryptik_AGen.GUK!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10291715\">W64/GenKryptik_AGen.GVN!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10291757\">W64/GenKryptik_AGen.GWC!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292075\">W64/GenKryptik_AGen.GYW!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292148\">W64/GenKryptik_AGen.GZC!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292318\">W64/GenKryptik_AGen.GZE!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292126\">W64/GenKryptik_AGen.GZX!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292303\">W64/GenKryptik_AGen.GZZ!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10292146\">W64/GenKryptik_AGen.HAA!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10268252\">W64/Kryptik.GXY!tr</a></li><li><a href=\"https://fortiguard.fortinet.com/encyclopedia/virus/10253469\">W64/Runner_AGen.M!tr</a></li></ul>",
+    "pubDate": "Sun, 08 Nov 2026 22:48:33 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.683Z"
+   },
    {
     "title": "93.08248",
     "link": "https://fortiguard.fortinet.com/updates/antivirus?version=93.08248",
@@ -20610,6 +20621,106 @@
    }
   ],
   "Web Filtering Updates": [
+   {
+    "title": "236.65193",
+    "link": "https://fortiguard.fortinet.com/updates/webfiltering?version=236.65193",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 02:20:23 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.692Z"
+   },
+   {
+    "title": "236.65192",
+    "link": "https://fortiguard.fortinet.com/updates/webfiltering?version=236.65192",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 02:15:26 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.692Z"
+   },
+   {
+    "title": "236.65191",
+    "link": "https://fortiguard.fortinet.com/updates/webfiltering?version=236.65191",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 02:10:24 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.692Z"
+   },
+   {
+    "title": "236.65190",
+    "link": "https://fortiguard.fortinet.com/updates/webfiltering?version=236.65190",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 02:05:23 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.692Z"
+   },
+   {
+    "title": "236.65189",
+    "link": "https://fortiguard.fortinet.com/updates/webfiltering?version=236.65189",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 02:00:27 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.692Z"
+   },
+   {
+    "title": "236.65188",
+    "link": "https://fortiguard.fortinet.com/updates/webfiltering?version=236.65188",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:55:28 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.692Z"
+   },
+   {
+    "title": "236.65187",
+    "link": "https://fortiguard.fortinet.com/updates/webfiltering?version=236.65187",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:50:23 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.692Z"
+   },
+   {
+    "title": "236.65186",
+    "link": "https://fortiguard.fortinet.com/updates/webfiltering?version=236.65186",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:45:21 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.692Z"
+   },
+   {
+    "title": "236.65185",
+    "link": "https://fortiguard.fortinet.com/updates/webfiltering?version=236.65185",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:40:21 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.692Z"
+   },
+   {
+    "title": "236.65184",
+    "link": "https://fortiguard.fortinet.com/updates/webfiltering?version=236.65184",
+    "description": "",
+    "pubDate": "Mon, 09 Nov 2026 01:35:23 -0800",
+    "categories": [
+     "Changelog"
+    ],
+    "firstSeen": "2026-11-09T02:32:20.692Z"
+   },
    {
     "title": "236.65148",
     "link": "https://fortiguard.fortinet.com/updates/webfiltering?version=236.65148",
@@ -22009,106 +22120,6 @@
      "Changelog"
     ],
     "firstSeen": "2026-11-05T22:38:00.384Z"
-   },
-   {
-    "title": "236.64218",
-    "link": "https://fortiguard.fortinet.com/updates/webfiltering?version=236.64218",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 16:17:17 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.454Z"
-   },
-   {
-    "title": "236.64217",
-    "link": "https://fortiguard.fortinet.com/updates/webfiltering?version=236.64217",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 16:12:14 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.454Z"
-   },
-   {
-    "title": "236.64216",
-    "link": "https://fortiguard.fortinet.com/updates/webfiltering?version=236.64216",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 16:07:17 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.454Z"
-   },
-   {
-    "title": "236.64215",
-    "link": "https://fortiguard.fortinet.com/updates/webfiltering?version=236.64215",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 16:00:28 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.454Z"
-   },
-   {
-    "title": "236.64214",
-    "link": "https://fortiguard.fortinet.com/updates/webfiltering?version=236.64214",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:57:16 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.454Z"
-   },
-   {
-    "title": "236.64213",
-    "link": "https://fortiguard.fortinet.com/updates/webfiltering?version=236.64213",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:50:24 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.454Z"
-   },
-   {
-    "title": "236.64212",
-    "link": "https://fortiguard.fortinet.com/updates/webfiltering?version=236.64212",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:45:24 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.454Z"
-   },
-   {
-    "title": "236.64211",
-    "link": "https://fortiguard.fortinet.com/updates/webfiltering?version=236.64211",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:40:22 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.454Z"
-   },
-   {
-    "title": "236.64210",
-    "link": "https://fortiguard.fortinet.com/updates/webfiltering?version=236.64210",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:37:15 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.454Z"
-   },
-   {
-    "title": "236.64209",
-    "link": "https://fortiguard.fortinet.com/updates/webfiltering?version=236.64209",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 15:32:16 -0800",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-11-05T16:42:10.454Z"
    }
   ],
   "FortiWeb Security Updates": [
@@ -22343,16 +22354,6 @@
     "link": "https://fortiguard.fortinet.com/updates/botnetdom?version=3.01693",
     "description": "",
     "pubDate": "Mon, 12 Oct 2026 17:53:43 -0700",
-    "categories": [
-     "Changelog"
-    ],
-    "firstSeen": "2026-10-25T09:20:06.598Z"
-   },
-   {
-    "title": "3.01692",
-    "link": "https://fortiguard.fortinet.com/updates/botnetdom?version=3.01692",
-    "description": "",
-    "pubDate": "Fri, 09 Oct 2026 17:50:26 -0700",
     "categories": [
      "Changelog"
     ],
