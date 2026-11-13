@@ -36,6 +36,15 @@ button{font:inherit;cursor:pointer}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
 .status{font-family:var(--display);font-size:1.3rem;color:#fff;min-height:1.6em;margin:10px 0 0;text-shadow:0 1px 8px var(--deep)}
 
+/* feed groups: Government, Vendor, Newsfeed, CVE Only Feeds */
+.group{margin:0 0 36px}
+.group h2{display:inline-block;margin:0;padding:0 14px;font-family:var(--display);font-weight:400;font-size:2.2rem;line-height:1.2;
+  color:#2b1b4d;background:var(--mint);border:2px solid #fff;border-radius:10px;box-shadow:4px 4px 0 var(--deep)}
+.group:nth-of-type(2) h2{background:var(--pink)}
+.group:nth-of-type(3) h2{background:var(--peach)}
+.group:nth-of-type(4) h2{background:var(--lav)}
+.gdesc{margin:8px 0 14px;font-size:.95rem;color:#fff;text-shadow:0 1px 8px var(--deep)}
+
 /* one collapsed box per source */
 .tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:18px}
 .tile{display:flex;flex-direction:column;gap:8px;text-align:left;color:var(--ink);padding:0 0 12px;min-width:0;

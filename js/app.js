@@ -1,44 +1,50 @@
 // Live sources. Names must match the names in scripts/fetch-feeds.mjs.
 // A scheduled job saves each feed into feeds/feed.json; this page just reads that file.
+// The third value is the group the feed belongs to (see GROUPS below).
+const GROUPS=[
+ ["gov","Government","Official alerts from the people with the badges."],
+ ["vendor","Vendor","Straight from the makers. Their products, their problems."],
+ ["news","Newsfeed","Advisories, exploits and chatter from around the web."],
+ ["cve","CVE Only Feeds","Nothing but CVEs. No small talk, no context, no mercy."]
+];
 const LIVE=[
- ["CISA ICS Advisories","US advisories for industrial control systems. Factories, pipes and power."],
- ["CISA Cybersecurity Advisories","The US government's general security alerts and advisories."],
- ["CERT/CC Vulnerability Notes","Carnegie Mellon's coordinated vulnerability write-ups."],
- ["UK NCSC","Alerts and guidance from the UK's National Cyber Security Centre."],
- ["CERT-EU","Security advisories from the EU institutions' response team."],
- ["Canadian Cyber Centre","Alerts and advisories from Canada. Very polite, still alarming."],
- ["Microsoft Security Update Guide","Microsoft's official patch and vulnerability list. Patch Tuesday, all month."],
- ["Microsoft Security Blog","Microsoft's cybersecurity blog posts, threat research and guidance."],
- ["Hacker News Feed","The Hacker News front page. Tech chatter, hot takes and the odd breach."],
- ["CVE.report","A firehose of freshly published CVE entries."],
- ["cvefeed.io Latest","The newest CVEs, as soon as they're published."],
- ["cvefeed.io High & Critical","Only the high and critical CVEs. No small talk."],
- ["Kubernetes CVE Feed","Official CVEs for Kubernetes. For anyone running containers."],
- ["Google News: CVE","News headlines about CVEs and vulnerabilities."],
- ["ZDI Published","Zero Day Initiative advisories that are now public."],
- ["ZDI Upcoming","ZDI advisories still waiting for their big reveal."],
- ["Exploit-DB","Newly published public exploits. Handle with oven gloves."],
- ["Full Disclosure","The famously chatty security mailing list."],
- ["Sploitus","Exploit and vulnerability search results, served fresh."],
- ["VulDB Recent","Recent entries from the VulDB vulnerability database."],
- ["FortiGuard Outbreak Alerts","Fortinet's alerts for fast-moving threats."],
- ["FortiGuard Threat Signal","Fortinet's short threat briefings."],
- ["Fortinet PSIRT Advisories","Security advisories for Fortinet's own products."],
- ["App Control Updates","Application control signature updates."],
- ["Antispam Checksum Updates","Antispam checksum database updates."],
- ["Antispam URI Updates","Antispam URI database updates."],
- ["Antispam IP Updates","Antispam IP database updates."],
- ["Antivirus Updates","Antivirus signature database updates."],
- ["IPS Updates","Intrusion prevention signature updates."],
- ["Web Filtering Updates","Web filtering service updates."],
- ["FortiWeb Security Updates","FortiWeb application security updates."],
- ["Endpoint Vulnerability Updates","Endpoint vulnerability signature updates."],
- ["IP Reputation DB","Updates to the IP reputation database."],
- ["Botnet Domain Reputation DB","Updates to the botnet domain reputation database."],
- ["Virtual Patching Updates","FortiGuard virtual patching service updates."],
- ["FortiDAST","Dynamic application security testing updates."],
- ["Fortinet Firmware Updates","New firmware releases for Fortinet products."]
-].map(([name,desc])=>({name,desc}));
+ ["CISA ICS Advisories","US advisories for industrial control systems. Factories, pipes and power.","gov"],
+ ["CISA Cybersecurity Advisories","The US government's general security alerts and advisories.","gov"],
+ ["CERT/CC Vulnerability Notes","Carnegie Mellon's coordinated vulnerability write-ups.","gov"],
+ ["UK NCSC","Alerts and guidance from the UK's National Cyber Security Centre.","gov"],
+ ["CERT-EU","Security advisories from the EU institutions' response team.","gov"],
+ ["Canadian Cyber Centre","Alerts and advisories from Canada. Very polite, still alarming.","gov"],
+ ["Microsoft Security Update Guide","Microsoft's official patch and vulnerability list. Patch Tuesday, all month.","vendor"],
+ ["Microsoft Security Blog","Microsoft's cybersecurity blog posts, threat research and guidance.","vendor"],
+ ["FortiGuard Outbreak Alerts","Fortinet's alerts for fast-moving threats.","vendor"],
+ ["FortiGuard Threat Signal","Fortinet's short threat briefings.","vendor"],
+ ["Fortinet PSIRT Advisories","Security advisories for Fortinet's own products.","vendor"],
+ ["App Control Updates","Application control signature updates.","vendor"],
+ ["Antispam Checksum Updates","Antispam checksum database updates.","vendor"],
+ ["Antispam URI Updates","Antispam URI database updates.","vendor"],
+ ["Antispam IP Updates","Antispam IP database updates.","vendor"],
+ ["Antivirus Updates","Antivirus signature database updates.","vendor"],
+ ["IPS Updates","Intrusion prevention signature updates.","vendor"],
+ ["Web Filtering Updates","Web filtering service updates.","vendor"],
+ ["FortiWeb Security Updates","FortiWeb application security updates.","vendor"],
+ ["Endpoint Vulnerability Updates","Endpoint vulnerability signature updates.","vendor"],
+ ["IP Reputation DB","Updates to the IP reputation database.","vendor"],
+ ["Botnet Domain Reputation DB","Updates to the botnet domain reputation database.","vendor"],
+ ["Virtual Patching Updates","FortiGuard virtual patching service updates.","vendor"],
+ ["FortiDAST","Dynamic application security testing updates.","vendor"],
+ ["Fortinet Firmware Updates","New firmware releases for Fortinet products.","vendor"],
+ ["Google News: CVE","News headlines about CVEs and vulnerabilities.","news"],
+ ["ZDI Published","Zero Day Initiative advisories that are now public.","news"],
+ ["ZDI Upcoming","ZDI advisories still waiting for their big reveal.","news"],
+ ["Exploit-DB","Newly published public exploits. Handle with oven gloves.","news"],
+ ["Full Disclosure","The famously chatty security mailing list.","news"],
+ ["Sploitus","Exploit and vulnerability search results, served fresh.","news"],
+ ["CVE.report","A firehose of freshly published CVE entries.","cve"],
+ ["cvefeed.io Latest","The newest CVEs, as soon as they're published.","cve"],
+ ["cvefeed.io High & Critical","Only the high and critical CVEs. No small talk.","cve"],
+ ["Kubernetes CVE Feed","Official CVEs for Kubernetes. For anyone running containers.","cve"],
+ ["VulDB Recent","Recent entries from the VulDB vulnerability database.","cve"]
+].map(([name,desc,g])=>({name,desc,g}));
 const FEED_FILE="feeds/feed.json";
 const DAYS=30; // rolling window; keep in step with DAYS in the script
 let FEED=[];
@@ -157,7 +163,7 @@ function render(){
   const pool=FEED.filter(recent);
   const list=pool.filter(i=>terms.every(t=>[i.title,i.text,i.src,...i.tags.map(x=>x.l)].join(" ").toLowerCase().includes(t)));
   let shown=0;
-  $("feed").innerHTML=LIVE.map(l=>{
+  const tile=l=>{
     const n=list.filter(i=>i.src===l.name).length,st=state[l.name];
     if(q&&!n&&st==="ok")return ""; // while searching, only show sources with matches
     shown++;
@@ -166,6 +172,11 @@ function render(){
       <span class="th"><span>${esc(l.name)}</span><small>${badge}</small></span>
       <span class="td">${esc(l.desc)}</span>
       <span class="go">${st==="error"?"No saved copy yet":"Open feed ▸"}</span></button>`;
+  };
+  // One section per group; a group with no visible tiles is left out.
+  $("feed").innerHTML=GROUPS.map(([k,title,blurb])=>{
+    const tiles=LIVE.filter(l=>l.g===k).map(tile).join("");
+    return tiles?`<section class="group" aria-labelledby="g-${k}"><h2 id="g-${k}">${esc(title)}</h2><p class="gdesc">${esc(blurb)}</p><div class="tiles">${tiles}</div></section>`:"";
   }).join("");
   if(openSrc){
     const l=LIVE.find(x=>x.name===openSrc),items=list.filter(i=>i.src===openSrc).sort(sorter());

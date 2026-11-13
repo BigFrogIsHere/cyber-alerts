@@ -25,7 +25,6 @@ const SOURCES = [
   { name: "Canadian Cyber Centre", url: "https://www.cyber.gc.ca/api/cccs/atom/v1/get?feed=alerts_advisories&lang=en" },
   { name: "Microsoft Security Update Guide", url: "https://api.msrc.microsoft.com/update-guide/rss" },
   { name: "Microsoft Security Blog", url: "https://www.microsoft.com/security/blog/category/cybersecurity/feed/" },
-  { name: "Hacker News Feed", url: "https://news.ycombinator.com/rss" },
   { name: "CVE.report", url: "https://cve.report/cve.rss" },
   { name: "cvefeed.io Latest", url: "https://cvefeed.io/rssfeed/latest.xml" },
   { name: "cvefeed.io High & Critical", url: "https://cvefeed.io/rssfeed/severity/high.xml" },
